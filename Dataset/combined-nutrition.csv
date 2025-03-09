@@ -1,0 +1,2275 @@
+name,calories,fat,proteins,carbohydrate,Meal Type
+chocolate pudding fat free,105.0,0.3,2.2,23.6,Snack
+tapioca pudding,143.0,4.3,2.1,23.9,Lunch
+tapioca pudding fat free,105.0,0.4,1.6,23.9,Lunch
+rice pudding,122.0,2.4,3.6,20.8,Carbs
+corn pudding,328.0,12.6,11.1,42.4,Carbs
+chocolate pudding,213.0,6.9,3.1,34.5,Snack
+lemon pudding,173.0,4.4,4.1,30.2,Lunch
+vanilla pudding,195.0,5.7,2.2,33.9,Lunch
+profeel proteiinirahka valio,140.0,0.4,175.0,19.3,Lunch
+cottage cheese creamed,20.0,0.9,2.2,0.7,Drink
+zaziki milfina,51.0,4.4,0.0,0.0,Lunch/Dinner
+cottage cheese low fat,163.0,2.3,28.0,6.1,Drink
+cottage cheese nonfat,104.0,0.4,15.0,9.7,Drink
+vanilla yogurt low fat,208.0,3.1,12.1,33.8,Breakfast
+classique yogurt plain 2 liberte,30.0,1.2,3.3,1.7,Breakfast
+yoplait light strawberry yogurt yoplait,79.0,0.0,0.0,0.074,Breakfast
+vanilla yogurt,145.0,2.1,8.4,23.5,Breakfast
+chocolate yogurt,168.0,0.0,5.3,35.3,Breakfast
+yogurt parfait,125.0,1.5,5.0,23.6,Breakfast
+yogurt,92.0,4.9,5.2,7.0,Breakfast
+chocolate frozen yogurt,221.0,6.3,5.2,37.6,Breakfast
+frozen yogurt,221.0,6.3,5.2,37.6,Breakfast
+yogurt low fat,154.0,3.8,12.9,17.2,Breakfast
+vanilla yoghurt oikos,120.0,1.8,0.0,0.0,Lunch
+fruit yogurt,149.0,1.7,6.0,28.0,Breakfast
+danone low fat alsafi,88.0,1.7,0.0,0.089,Lunch
+fruit n yogurt parfait mcdonalds,156.0,1.9,4.1,30.9,Breakfast
+triple zero greek yogurt dannon oikos,120.0,0.0,0.038,22.5,Breakfast
+greek yogurt,100.0,0.7,17.3,6.1,Breakfast
+chocolate rasberry protein mini proteinfx,102.0,2.9,0.0,0.0,Lunch/Dinner
+gushers fruit gushers,360.0,6.0,0.0,0.2,Lunch
+egg fried,90.0,6.8,6.3,0.4,Breakfast
+glucerna abbott,1010.0,35.6,0.0,120.9,Lunch
+sports drink,26.0,0.0,0.0,7.2,Drink
+peanut butter cookie protein syntha 6,200.0,6.0,0.0,5.0,Snack
+hanfprotein pulver rohkostqualitat veganz,107.0,3.1,0.0,14.2,Lunch
+smoothie high protein creamy chocolate slimfast,110.0,3.5,12.0,2.1,Snack
+egg large,138.0,9.3,0.0,0.0,Breakfast
+boysenberries frozen,66.0,0.3,1.5,16.1,Drink
+malt beverage,88.0,0.3,0.5,19.1,Drink
+chocolate powder for milk,88.0,0.5,1.0,19.9,Drink
+vegetable fruit juice,9.0,0.017,0.071,2.2,Drink
+cocoa powder unsweetened,12.0,0.7,1.1,3.1,Lunch
+coconut milk,35.0,3.6,0.3,0.8,Drink
+cocoa powder,28.0,0.3,0.5,5.9,Lunch
+rice drink,113.0,2.3,0.7,22.0,Drink
+coconut water,46.0,0.5,1.7,8.9,Lunch
+caramel med iced coffee dunkin donuts,268.0,9.0,0.0,0.0,Drink
+instant coffee with water decaffeinated,4.0,0.0,0.2,0.8,Drink
+instant coffee powder,353.0,0.5,12.2,75.4,Drink
+instant coffee powder decaffeinated,6.0,0.069,0.2,1.4,Drink
+instant cappuccino powder,53.0,0.7,0.4,11.2,Lunch
+coffee decaffeinated,0.0,0.0,0.2,0.0,Drink
+espresso decaffeinated,3.0,0.011,0.065,0.5,Drink
+instant coffee with water,4.0,0.0,0.2,0.6,Drink
+coffee,2.0,0.069,0.3,0.0,Drink
+espresso,3.0,0.086,0.021,0.5,Drink
+whey protein powder vanilla eas,108.0,1.7,0.0,0.0,Lunch
+energy drink sugar free red bull,13.0,0.2,0.6,1.8,Drink
+powerade coca cola,9.0,0.009,0.0,2.3,Lunch
+amp energy pepsi,110.0,0.2,0.6,29.0,Lunch
+gatorade g2 pepsi,2.0,0.052,0.069,0.6,Lunch
+amp energy sugar free pepsi,5.0,0.0,0.0,2.5,Lunch
+energy drink red bull,111.0,0.0,1.2,26.4,Drink
+powerade zero ion4 coca cola,0.0,0.0,0.0,0.0,Lunch
+full throttle coca cola,110.0,0.2,0.6,29.0,Lunch
+passion fruit juice purple,148.0,0.4,1.7,35.7,Drink
+pomegranate juice,134.0,0.7,0.4,32.7,Drink
+cranberry apricot juice,157.0,0.0,0.5,39.7,Drink
+pineapple juice,133.0,0.3,0.9,32.2,Drink
+passion fruit juice yellow,126.0,0.1,1.0,33.6,Drink
+orange apricot juice,128.0,0.3,0.8,31.8,Drink
+tangerine juice,106.0,0.5,1.2,24.9,Drink
+orange juice,90.0,0.4,1.4,20.8,Drink
+grapefruit juice,96.0,0.2,1.2,22.7,Drink
+pineapple grapefruit juice,118.0,0.3,0.5,29.0,Drink
+tamarind nectar,143.0,0.3,0.2,37.0,Lunch
+apple juice,114.0,0.3,0.2,28.0,Drink
+limeade,128.0,0.0,0.0,34.1,Lunch
+guava nectar,158.0,0.2,0.2,40.8,Lunch
+orange grapefruit juice,106.0,0.2,1.5,25.4,Drink
+orange juice sainsburys,14.0,0.088,0.0,0.0,Drink
+cranberry apple juice,154.0,0.3,0.0,38.8,Drink
+pineapple orange juice,125.0,0.0,3.3,29.5,Drink
+pear nectar,150.0,0.062,0.3,39.4,Lunch
+blackberry juice,95.0,1.5,0.8,19.5,Drink
+lemon juice,54.0,0.6,0.9,16.6,Drink
+cranberry grape juice,137.0,0.2,0.5,34.3,Drink
+citrus fruit juice,114.0,0.057,0.8,28.3,Drink
+prune juice,182.0,0.006,1.6,44.7,Drink
+guanabana nectar,148.0,0.4,0.3,37.5,Lunch
+fruit juice,108.0,0.1,0.3,26.3,Drink
+horchata,15.0,0.2,0.1,3.3,Lunch
+fruit punch,98.0,0.4,0.2,24.4,Lunch
+apricot nectar,139.0,0.2,0.9,35.7,Lunch
+orangensaft ja,86.0,0.0,0.0,1.4,Lunch
+fruchtcocktail granini,102.0,0.4,0.0,1.0,Lunch
+peach nectar,125.0,1.3,0.5,29.7,Lunch
+orange pineapple juice,15.0,0.08,0.1,3.6,Drink
+cranberry juice,92.0,0.3,0.8,24.4,Drink
+white grapefruit juice,96.0,0.2,1.2,22.7,Drink
+mango nectar,128.0,0.2,0.3,32.9,Lunch
+acerola cherry juice,56.0,0.7,1.0,11.6,Drink
+apple juice concentrate,350.0,0.8,1.1,86.5,Drink
+papaya nectar,143.0,0.4,0.4,36.3,Lunch
+apple juice martinellis,122.0,0.0,0.0,0.0,Drink
+lime juice,61.0,0.2,1.0,20.4,Drink
+grape juice,152.0,0.3,0.9,37.4,Drink
+water dannon,0.0,0.0,0.0,0.0,Lunch
+tap water,0.0,0.0,0.0,0.0,Lunch
+table water,0.0,0.0,0.0,0.0,Lunch
+fruit flavored water,52.0,0.0,0.0,13.0,Lunch
+water,0.0,0.0,0.0,0.0,Lunch
+cola light coca cola,0.0,0.0,0.0,0.0,Lunch
+lemon lime soda,151.0,0.0,0.3,38.4,Drink
+tonic water,114.0,0.0,0.0,29.6,Lunch
+lemonade low calorie,7.0,0.0,0.092,1.6,Lunch
+ginger ale,68.0,0.0,0.0,17.5,Lunch
+ice tea lemon flavor nestle,88.0,0.0,0.0,22.3,Drink
+sprite coca cola,80.0,0.063,0.1,20.3,Lunch
+cola coca cola,151.0,0.0,0.0,38.9,Lunch
+cola,74.0,0.07,0.1,19.1,Lunch
+cream soda,252.0,0.0,0.0,65.7,Drink
+club soda,0.0,0.0,0.0,0.0,Drink
+pink lemonade,86.0,0.3,0.1,21.6,Lunch
+grape soda,160.0,0.0,0.0,41.7,Drink
+cola without caffeine coca cola,151.0,0.0,0.0,38.9,Lunch
+white lemonade,80.0,0.003,0.1,20.8,Lunch
+chocolate soda,207.0,0.0,0.0,52.6,Drink
+sweet tea lipton,130.0,0.0,0.0,35.0,Drink
+hibiscus tea,74.0,1.3,0.9,14.8,Drink
+instant lemon tea,2.0,0.0,0.1,0.3,Drink
+pesca tea santal,116.0,0.0,0.0,0.0,Drink
+instant lemon tea sweetened,91.0,0.2,0.071,22.3,Drink
+tea with milk and sugar yorkshire,15.0,0.5,0.0,0.4,Drink
+tea blueberry muffin tekanne,4.0,0.2,0.0,0.4,Drink
+chamomile tea,2.0,0.0,0.0,0.4,Drink
+black tea,2.0,0.0,0.0,0.7,Drink
+herb tea,2.0,0.0,0.0,0.4,Drink
+clam tomato juice,80.0,0.3,1.0,18.2,Drink
+tomato juice,41.0,0.7,2.1,8.6,Drink
+vegetable juice,53.0,0.2,1.5,11.1,Drink
+tomato vegetable juice,53.0,0.2,1.5,11.1,Drink
+carrot juice,80.0,0.3,1.9,18.6,Drink
+acorn dried,144.0,8.9,2.3,15.2,Carbs
+fenugreek seeds,36.0,0.7,2.6,6.5,Lunch
+peanut topping mcdonalds,181.0,15.0,7.9,4.6,Lunch
+beechnuts dried,173.0,15.0,1.9,10.1,Lunch
+breadnut tree seeds raw,61.0,0.3,1.7,13.1,Carbs
+cumin seeds,8.0,0.5,0.4,0.9,Lunch/Dinner
+pili nuts dried,863.0,95.5,13.0,4.8,Lunch
+hazelnuts roasted,194.0,18.7,4.5,5.3,Lunch
+lupins cooked,193.0,4.8,25.8,15.4,Lunch
+hazelnuts blanched,178.0,17.3,3.9,4.8,Lunch
+brazilnuts dried,33.0,3.3,0.7,0.6,Lunch
+sunflower seeds dry roasted,47.0,4.0,1.5,1.9,Lunch
+ginkgo nuts canned,172.0,2.5,3.5,34.3,Lunch
+peanuts cooked,572.0,39.6,24.3,38.3,Lunch
+pumpkin squash seeds dried,721.0,63.3,39.0,13.8,Lunch
+cashew nuts raw,156.0,12.4,5.2,8.5,Lunch
+sunflower seeds dried,269.0,23.7,9.6,9.2,Lunch
+lotus seeds dried,106.0,0.6,4.9,20.6,Lunch
+butternuts dried,734.0,68.4,29.9,14.5,Lunch
+sesame seeds dried,52.0,4.5,1.6,2.1,Drink
+breadfruit seeds,57.0,1.7,2.2,8.8,Carbs
+pinyon pine nuts dried,1.0,0.073,0.083,0.01,Lunch
+pine nuts dried,909.0,92.3,18.5,17.7,Lunch
+flaxseeds,55.0,4.3,1.9,3.0,Lunch
+safflower seed kernels dried,146.0,10.9,4.6,9.7,Lunch
+pistachio nuts raw,691.0,55.8,24.9,33.8,Lunch
+peanuts raw,828.0,71.9,37.7,23.5,Lunch
+poppy seeds,46.0,3.7,1.6,2.5,Lunch
+valencia peanuts raw,832.0,69.5,36.6,30.5,Lunch
+spanish peanuts,832.0,72.4,38.2,23.1,Lunch
+dill seeds,20.0,1.0,1.1,3.6,Lunch
+caraway seeds,22.0,1.0,1.3,3.3,Lunch
+acorn raw,110.0,6.8,1.7,11.5,Carbs
+almonds roasted,182.0,16.6,6.4,5.3,Lunch
+lotus seeds raw,25.0,0.1,1.2,4.9,Lunch
+chestnuts cooked,37.0,0.4,0.6,7.9,Drink
+alfalfa seeds,1.0,0.075,0.1,0.002,Lunch
+virginia peanuts roasted,173.0,14.6,7.8,6.0,Lunch
+hazelnuts raw,471.0,45.6,11.2,12.5,Lunch
+anise seeds,7.0,0.3,0.4,1.1,Lunch
+macadamia nuts roasted,215.0,22.8,2.3,4.0,Lunch/Dinner
+studentenfutter alnatura,139.0,7.8,3.1,13.2,Lunch
+pumpkin squash seeds roasted,46.0,3.9,2.4,1.2,Lunch
+water chestnut raw,120.0,0.1,1.7,29.7,Drink
+chestnuts roasted,37.0,0.3,0.5,7.9,Drink
+ginkgo nuts raw,52.0,0.5,1.2,10.6,Lunch
+almonds raw,9.0,0.7,0.3,0.3,Lunch
+peanuts roasted,180.0,15.8,8.4,4.6,Lunch
+sunflower seeds toasted,829.0,76.1,23.1,27.6,Breakfast
+sisymbrium seeds,235.0,3.4,9.0,43.1,Lunch
+breadnut tree seeds dried,587.0,2.7,13.8,127.0,Carbs
+pecans raw,753.0,78.4,10.0,15.1,Lunch
+chia seeds dried,138.0,8.7,4.7,11.9,Lunch
+japanese chestnuts roasted,57.0,0.2,0.8,12.8,Drink
+sesame seeds toasted,45.0,3.8,1.4,2.1,Drink
+cashew nuts roasted,174.0,14.3,5.1,9.0,Lunch
+lupins raw,668.0,17.5,65.1,72.7,Lunch
+mustard seeds ground,10.0,0.7,0.5,0.6,Lunch
+mixed nuts roasted,178.0,15.4,5.2,7.6,Lunch/Dinner
+salat mix alestro,61.0,5.2,0.0,2.4,Drink
+chestnuts raw,309.0,3.3,3.5,66.0,Drink
+pistachio nuts roasted,172.0,13.7,6.3,8.5,Lunch
+walnut,33.0,3.3,0.8,0.7,Lunch
+celery seeds,25.0,1.6,1.2,2.7,Lunch
+hickorynuts dried,788.0,77.2,15.3,21.9,Lunch
+spanish peanuts roasted,851.0,72.1,41.2,25.7,Lunch
+woca seeds dried,102.0,0.3,2.2,22.6,Lunch
+pecans roasted,215.0,22.6,2.8,3.9,Lunch
+fennel seeds,7.0,0.3,0.3,1.0,Lunch
+chinese chestnuts roasted,68.0,0.3,1.3,14.8,Drink
+watermelon seed kernels dried,602.0,51.2,30.6,16.5,Lunch
+macadamia nuts raw,38.0,4.0,0.4,0.7,Lunch/Dinner
+pectin,163.0,0.2,0.2,45.2,Lunch
+black walnut dried,31.0,3.0,1.2,0.5,Lunch
+water chestnut canned,70.0,0.015,1.2,17.2,Drink
+ginkgo nuts dried,98.0,0.6,2.9,20.5,Lunch
+virginia peanuts raw,822.0,71.2,36.8,24.1,Lunch
+valencia peanuts roasted,177.0,15.4,8.1,4.9,Lunch
+nesfit diet cereal nestle,75.0,0.0,0.0,0.0,Drink
+corn grits cooked,182.0,1.2,4.4,37.9,Carbs
+amaranth flakes,134.0,2.7,5.9,27.0,Drink
+granola,293.0,14.6,8.2,32.3,Lunch
+muesli with fruit nuts,231.0,3.4,4.3,45.7,Drink
+muesli master crumble,124.0,2.4,2.4,4.5,Drink
+bran flakes,131.0,0.8,4.0,32.2,Drink
+nut cereal,245.0,5.9,4.0,46.2,Carbs
+corn flakes,108.0,0.3,1.7,24.6,Drink
+corn grits dry,36.0,0.2,0.7,7.7,Carbs
+chocolate pudding fat free,105.0,0.3,2.2,23.6,Snack
+tapioca pudding,143.0,4.3,2.1,23.9,Lunch
+tapioca pudding fat free,105.0,0.4,1.6,23.9,Lunch
+rice pudding,122.0,2.4,3.6,20.8,Carbs
+corn pudding,328.0,12.6,11.1,42.4,Carbs
+chocolate pudding,213.0,6.9,3.1,34.5,Snack
+lemon pudding,173.0,4.4,4.1,30.2,Lunch
+vanilla pudding,195.0,5.7,2.2,33.9,Lunch
+profeel proteiinirahka valio,140.0,0.4,175.0,19.3,Lunch
+cottage cheese creamed,20.0,0.9,2.2,0.7,Drink
+zaziki milfina,51.0,4.4,0.0,0.0,Lunch/Dinner
+cottage cheese low fat,163.0,2.3,28.0,6.1,Drink
+cottage cheese nonfat,104.0,0.4,15.0,9.7,Drink
+vanilla yogurt low fat,208.0,3.1,12.1,33.8,Breakfast
+classique yogurt plain 2 liberte,30.0,1.2,3.3,1.7,Breakfast
+yoplait light strawberry yogurt yoplait,79.0,0.0,0.0,0.074,Breakfast
+vanilla yogurt,145.0,2.1,8.4,23.5,Breakfast
+chocolate yogurt,168.0,0.0,5.3,35.3,Breakfast
+yogurt parfait,125.0,1.5,5.0,23.6,Breakfast
+yogurt,92.0,4.9,5.2,7.0,Breakfast
+chocolate frozen yogurt,221.0,6.3,5.2,37.6,Breakfast
+frozen yogurt,221.0,6.3,5.2,37.6,Breakfast
+yogurt low fat,154.0,3.8,12.9,17.2,Breakfast
+vanilla yoghurt oikos,120.0,1.8,0.0,0.0,Lunch
+fruit yogurt,149.0,1.7,6.0,28.0,Breakfast
+danone low fat alsafi,88.0,1.7,0.0,0.089,Lunch
+fruit n yogurt parfait mcdonalds,156.0,1.9,4.1,30.9,Breakfast
+triple zero greek yogurt dannon oikos,120.0,0.0,0.038,22.5,Breakfast
+greek yogurt,100.0,0.7,17.3,6.1,Breakfast
+chocolate rasberry protein mini proteinfx,102.0,2.9,0.0,0.0,Lunch/Dinner
+gushers fruit gushers,360.0,6.0,0.0,0.2,Lunch
+egg fried,90.0,6.8,6.3,0.4,Breakfast
+glucerna abbott,1010.0,35.6,0.0,120.9,Lunch
+sports drink,26.0,0.0,0.0,7.2,Drink
+peanut butter cookie protein syntha 6,200.0,6.0,0.0,5.0,Snack
+hanfprotein pulver rohkostqualitat veganz,107.0,3.1,0.0,14.2,Lunch
+smoothie high protein creamy chocolate slimfast,110.0,3.5,12.0,2.1,Snack
+egg large,138.0,9.3,0.0,0.0,Breakfast
+boysenberries frozen,66.0,0.3,1.5,16.1,Drink
+malt beverage,88.0,0.3,0.5,19.1,Drink
+chocolate powder for milk,88.0,0.5,1.0,19.9,Drink
+vegetable fruit juice,9.0,0.017,0.071,2.2,Drink
+cocoa powder unsweetened,12.0,0.7,1.1,3.1,Lunch
+coconut milk,35.0,3.6,0.3,0.8,Drink
+cocoa powder,28.0,0.3,0.5,5.9,Lunch
+rice drink,113.0,2.3,0.7,22.0,Drink
+coconut water,46.0,0.5,1.7,8.9,Lunch
+caramel med iced coffee dunkin donuts,268.0,9.0,0.0,0.0,Drink
+instant coffee with water decaffeinated,4.0,0.0,0.2,0.8,Drink
+instant coffee powder,353.0,0.5,12.2,75.4,Drink
+instant coffee powder decaffeinated,6.0,0.069,0.2,1.4,Drink
+instant cappuccino powder,53.0,0.7,0.4,11.2,Lunch
+coffee decaffeinated,0.0,0.0,0.2,0.0,Drink
+espresso decaffeinated,3.0,0.011,0.065,0.5,Drink
+instant coffee with water,4.0,0.0,0.2,0.6,Drink
+coffee,2.0,0.069,0.3,0.0,Drink
+espresso,3.0,0.086,0.021,0.5,Drink
+whey protein powder vanilla eas,108.0,1.7,0.0,0.0,Lunch
+energy drink sugar free red bull,13.0,0.2,0.6,1.8,Drink
+powerade coca cola,9.0,0.009,0.0,2.3,Lunch
+amp energy pepsi,110.0,0.2,0.6,29.0,Lunch
+gatorade g2 pepsi,2.0,0.052,0.069,0.6,Lunch
+amp energy sugar free pepsi,5.0,0.0,0.0,2.5,Lunch
+energy drink red bull,111.0,0.0,1.2,26.4,Drink
+powerade zero ion4 coca cola,0.0,0.0,0.0,0.0,Lunch
+full throttle coca cola,110.0,0.2,0.6,29.0,Lunch
+passion fruit juice purple,148.0,0.4,1.7,35.7,Drink
+pomegranate juice,134.0,0.7,0.4,32.7,Drink
+cranberry apricot juice,157.0,0.0,0.5,39.7,Drink
+pineapple juice,133.0,0.3,0.9,32.2,Drink
+passion fruit juice yellow,126.0,0.1,1.0,33.6,Drink
+orange apricot juice,128.0,0.3,0.8,31.8,Drink
+tangerine juice,106.0,0.5,1.2,24.9,Drink
+orange juice,90.0,0.4,1.4,20.8,Drink
+grapefruit juice,96.0,0.2,1.2,22.7,Drink
+pineapple grapefruit juice,118.0,0.3,0.5,29.0,Drink
+tamarind nectar,143.0,0.3,0.2,37.0,Lunch
+apple juice,114.0,0.3,0.2,28.0,Drink
+limeade,128.0,0.0,0.0,34.1,Lunch
+guava nectar,158.0,0.2,0.2,40.8,Lunch
+orange grapefruit juice,106.0,0.2,1.5,25.4,Drink
+orange juice sainsburys,14.0,0.088,0.0,0.0,Drink
+cranberry apple juice,154.0,0.3,0.0,38.8,Drink
+pineapple orange juice,125.0,0.0,3.3,29.5,Drink
+pear nectar,150.0,0.062,0.3,39.4,Lunch
+blackberry juice,95.0,1.5,0.8,19.5,Drink
+lemon juice,54.0,0.6,0.9,16.6,Drink
+cranberry grape juice,137.0,0.2,0.5,34.3,Drink
+citrus fruit juice,114.0,0.057,0.8,28.3,Drink
+prune juice,182.0,0.006,1.6,44.7,Drink
+guanabana nectar,148.0,0.4,0.3,37.5,Lunch
+fruit juice,108.0,0.1,0.3,26.3,Drink
+horchata,15.0,0.2,0.1,3.3,Lunch
+fruit punch,98.0,0.4,0.2,24.4,Lunch
+apricot nectar,139.0,0.2,0.9,35.7,Lunch
+orangensaft ja,86.0,0.0,0.0,1.4,Lunch
+fruchtcocktail granini,102.0,0.4,0.0,1.0,Lunch
+peach nectar,125.0,1.3,0.5,29.7,Lunch
+orange pineapple juice,15.0,0.08,0.1,3.6,Drink
+cranberry juice,92.0,0.3,0.8,24.4,Drink
+white grapefruit juice,96.0,0.2,1.2,22.7,Drink
+mango nectar,128.0,0.2,0.3,32.9,Lunch
+acerola cherry juice,56.0,0.7,1.0,11.6,Drink
+apple juice concentrate,350.0,0.8,1.1,86.5,Drink
+papaya nectar,143.0,0.4,0.4,36.3,Lunch
+apple juice martinellis,122.0,0.0,0.0,0.0,Drink
+lime juice,61.0,0.2,1.0,20.4,Drink
+grape juice,152.0,0.3,0.9,37.4,Drink
+water dannon,0.0,0.0,0.0,0.0,Lunch
+tap water,0.0,0.0,0.0,0.0,Lunch
+table water,0.0,0.0,0.0,0.0,Lunch
+fruit flavored water,52.0,0.0,0.0,13.0,Lunch
+water,0.0,0.0,0.0,0.0,Lunch
+cola light coca cola,0.0,0.0,0.0,0.0,Lunch
+lemon lime soda,151.0,0.0,0.3,38.4,Drink
+tonic water,114.0,0.0,0.0,29.6,Lunch
+lemonade low calorie,7.0,0.0,0.092,1.6,Lunch
+ginger ale,68.0,0.0,0.0,17.5,Lunch
+ice tea lemon flavor nestle,88.0,0.0,0.0,22.3,Drink
+sprite coca cola,80.0,0.063,0.1,20.3,Lunch
+cola coca cola,151.0,0.0,0.0,38.9,Lunch
+cola,74.0,0.07,0.1,19.1,Lunch
+cream soda,252.0,0.0,0.0,65.7,Drink
+club soda,0.0,0.0,0.0,0.0,Drink
+pink lemonade,86.0,0.3,0.1,21.6,Lunch
+grape soda,160.0,0.0,0.0,41.7,Drink
+cola without caffeine coca cola,151.0,0.0,0.0,38.9,Lunch
+white lemonade,80.0,0.003,0.1,20.8,Lunch
+chocolate soda,207.0,0.0,0.0,52.6,Drink
+sweet tea lipton,130.0,0.0,0.0,35.0,Drink
+hibiscus tea,74.0,1.3,0.9,14.8,Drink
+instant lemon tea,2.0,0.0,0.1,0.3,Drink
+pesca tea santal,116.0,0.0,0.0,0.0,Drink
+instant lemon tea sweetened,91.0,0.2,0.071,22.3,Drink
+tea with milk and sugar yorkshire,15.0,0.5,0.0,0.4,Drink
+tea blueberry muffin tekanne,4.0,0.2,0.0,0.4,Drink
+chamomile tea,2.0,0.0,0.0,0.4,Drink
+black tea,2.0,0.0,0.0,0.7,Drink
+herb tea,2.0,0.0,0.0,0.4,Drink
+clam tomato juice,80.0,0.3,1.0,18.2,Drink
+tomato juice,41.0,0.7,2.1,8.6,Drink
+vegetable juice,53.0,0.2,1.5,11.1,Drink
+tomato vegetable juice,53.0,0.2,1.5,11.1,Drink
+carrot juice,80.0,0.3,1.9,18.6,Drink
+acorn dried,144.0,8.9,2.3,15.2,Carbs
+fenugreek seeds,36.0,0.7,2.6,6.5,Lunch
+peanut topping mcdonalds,181.0,15.0,7.9,4.6,Lunch
+beechnuts dried,173.0,15.0,1.9,10.1,Lunch
+breadnut tree seeds raw,61.0,0.3,1.7,13.1,Carbs
+cumin seeds,8.0,0.5,0.4,0.9,Lunch/Dinner
+pili nuts dried,863.0,95.5,13.0,4.8,Lunch
+hazelnuts roasted,194.0,18.7,4.5,5.3,Lunch
+lupins cooked,193.0,4.8,25.8,15.4,Lunch
+hazelnuts blanched,178.0,17.3,3.9,4.8,Lunch
+brazilnuts dried,33.0,3.3,0.7,0.6,Lunch
+sunflower seeds dry roasted,47.0,4.0,1.5,1.9,Lunch
+ginkgo nuts canned,172.0,2.5,3.5,34.3,Lunch
+peanuts cooked,572.0,39.6,24.3,38.3,Lunch
+pumpkin squash seeds dried,721.0,63.3,39.0,13.8,Lunch
+cashew nuts raw,156.0,12.4,5.2,8.5,Lunch
+sunflower seeds dried,269.0,23.7,9.6,9.2,Lunch
+lotus seeds dried,106.0,0.6,4.9,20.6,Lunch
+butternuts dried,734.0,68.4,29.9,14.5,Lunch
+sesame seeds dried,52.0,4.5,1.6,2.1,Drink
+breadfruit seeds,57.0,1.7,2.2,8.8,Carbs
+pinyon pine nuts dried,1.0,0.073,0.083,0.01,Lunch
+pine nuts dried,909.0,92.3,18.5,17.7,Lunch
+flaxseeds,55.0,4.3,1.9,3.0,Lunch
+safflower seed kernels dried,146.0,10.9,4.6,9.7,Lunch
+pistachio nuts raw,691.0,55.8,24.9,33.8,Lunch
+peanuts raw,828.0,71.9,37.7,23.5,Lunch
+poppy seeds,46.0,3.7,1.6,2.5,Lunch
+valencia peanuts raw,832.0,69.5,36.6,30.5,Lunch
+spanish peanuts,832.0,72.4,38.2,23.1,Lunch
+dill seeds,20.0,1.0,1.1,3.6,Lunch
+caraway seeds,22.0,1.0,1.3,3.3,Lunch
+acorn raw,110.0,6.8,1.7,11.5,Carbs
+almonds roasted,182.0,16.6,6.4,5.3,Lunch
+lotus seeds raw,25.0,0.1,1.2,4.9,Lunch
+chestnuts cooked,37.0,0.4,0.6,7.9,Drink
+alfalfa seeds,1.0,0.075,0.1,0.002,Lunch
+virginia peanuts roasted,173.0,14.6,7.8,6.0,Lunch
+hazelnuts raw,471.0,45.6,11.2,12.5,Lunch
+anise seeds,7.0,0.3,0.4,1.1,Lunch
+macadamia nuts roasted,215.0,22.8,2.3,4.0,Lunch/Dinner
+studentenfutter alnatura,139.0,7.8,3.1,13.2,Lunch
+pumpkin squash seeds roasted,46.0,3.9,2.4,1.2,Lunch
+water chestnut raw,120.0,0.1,1.7,29.7,Drink
+chestnuts roasted,37.0,0.3,0.5,7.9,Drink
+ginkgo nuts raw,52.0,0.5,1.2,10.6,Lunch
+almonds raw,9.0,0.7,0.3,0.3,Lunch
+peanuts roasted,180.0,15.8,8.4,4.6,Lunch
+sunflower seeds toasted,829.0,76.1,23.1,27.6,Breakfast
+sisymbrium seeds,235.0,3.4,9.0,43.1,Lunch
+breadnut tree seeds dried,587.0,2.7,13.8,127.0,Carbs
+pecans raw,753.0,78.4,10.0,15.1,Lunch
+chia seeds dried,138.0,8.7,4.7,11.9,Lunch
+japanese chestnuts roasted,57.0,0.2,0.8,12.8,Drink
+sesame seeds toasted,45.0,3.8,1.4,2.1,Drink
+cashew nuts roasted,174.0,14.3,5.1,9.0,Lunch
+lupins raw,668.0,17.5,65.1,72.7,Lunch
+mustard seeds ground,10.0,0.7,0.5,0.6,Lunch
+mixed nuts roasted,178.0,15.4,5.2,7.6,Lunch/Dinner
+salat mix alestro,61.0,5.2,0.0,2.4,Drink
+chestnuts raw,309.0,3.3,3.5,66.0,Drink
+pistachio nuts roasted,172.0,13.7,6.3,8.5,Lunch
+walnut,33.0,3.3,0.8,0.7,Lunch
+celery seeds,25.0,1.6,1.2,2.7,Lunch
+hickorynuts dried,788.0,77.2,15.3,21.9,Lunch
+spanish peanuts roasted,851.0,72.1,41.2,25.7,Lunch
+woca seeds dried,102.0,0.3,2.2,22.6,Lunch
+pecans roasted,215.0,22.6,2.8,3.9,Lunch
+fennel seeds,7.0,0.3,0.3,1.0,Lunch
+chinese chestnuts roasted,68.0,0.3,1.3,14.8,Drink
+watermelon seed kernels dried,602.0,51.2,30.6,16.5,Lunch
+macadamia nuts raw,38.0,4.0,0.4,0.7,Lunch/Dinner
+pectin,163.0,0.2,0.2,45.2,Lunch
+black walnut dried,31.0,3.0,1.2,0.5,Lunch
+water chestnut canned,70.0,0.015,1.2,17.2,Drink
+ginkgo nuts dried,98.0,0.6,2.9,20.5,Lunch
+virginia peanuts raw,822.0,71.2,36.8,24.1,Lunch
+valencia peanuts roasted,177.0,15.4,8.1,4.9,Lunch
+nesfit diet cereal nestle,75.0,0.0,0.0,0.0,Drink
+corn grits cooked,182.0,1.2,4.4,37.9,Carbs
+amaranth flakes,134.0,2.7,5.9,27.0,Drink
+granola,293.0,14.6,8.2,32.3,Lunch
+muesli with fruit nuts,231.0,3.4,4.3,45.7,Drink
+muesli master crumble,124.0,2.4,2.4,4.5,Drink
+bran flakes,131.0,0.8,4.0,32.2,Drink
+nut cereal,245.0,5.9,4.0,46.2,Carbs
+corn flakes,108.0,0.3,1.7,24.6,Drink
+corn grits dry,36.0,0.2,0.7,7.7,Carbs
+Abon,280.0,28.4,9.2,0.0,Lunch
+Abon haruwan,513.0,37.0,23.7,21.3,Lunch
+Agar-agar,0.0,0.2,0.0,0.0,Lunch
+Akar tonjong segar,45.0,0.4,1.1,10.8,Lunch
+Aletoge segar,37.0,0.5,4.4,3.8,Lunch
+Alpukat segar,85.0,6.5,0.9,7.7,Lunch
+Ampas kacang hijau,96.0,0.6,3.7,19.1,Carbs
+Ampas Tahu,414.0,18.3,26.6,41.3,Lunch/Dinner
+Ampas tahu kukus,75.0,2.1,4.1,10.7,Lunch/Dinner
+Ampas tahu mentah,67.0,2.1,5.0,8.1,Lunch/Dinner
+Anak sapi daging gemuk segar,184.0,14.0,18.8,0.0,Lunch
+Anak sapi daging kurus segar,174.0,10.0,19.6,0.0,Lunch
+Anak sapi daging sedang segar,190.0,12.0,19.1,0.0,Lunch
+Andaliman segar,99.0,1.0,4.6,18.0,Lunch
+Andewi,25.0,0.2,1.6,5.3,Lunch
+Anggur hutan segar,30.0,0.2,0.5,6.8,Lunch
+Angsa,354.0,31.5,16.4,0.0,Lunch
+Anyang sayur,126.0,7.9,3.4,10.3,Lunch/Dinner
+Apel,58.0,0.4,0.3,14.9,Lunch
+Apel malang segar,57.0,0.4,0.5,12.8,Lunch
+Arbei,37.0,0.5,0.8,8.3,Lunch
+Ares sayur,113.0,7.2,0.9,11.2,Drink
+Arrowroot segar,102.0,0.2,1.0,24.1,Lunch
+Arwan sirsir,277.0,25.0,2.4,10.7,Lunch
+Asam kandis segar,75.0,1.1,0.2,16.1,Lunch
+Asam masak di pohon,239.0,0.6,2.8,62.5,Lunch
+Asam payak segar,135.0,0.4,0.8,32.1,Lunch
+Asan kandis kering,261.0,1.6,0.9,63.3,Lunch
+Asinan Bogor sayuran,98.0,2.6,3.9,14.8,Lunch/Dinner
+Ayam,302.0,25.0,18.2,0.0,Lunch/Dinner
+Ayam  goreng Kentuckysayap,297.0,15.2,35.9,1.6,Lunch/Dinner
+Ayam ampela goreng,270.0,11.2,32.3,9.9,Lunch/Dinner
+Ayam dideh/darah segar,75.0,1.9,13.8,0.7,Lunch/Dinner
+Ayam goreng church texa sayap,295.0,16.0,34.0,1.5,Lunch/Dinner
+Ayam goreng church texas dada,338.0,20.6,35.2,0.4,Lunch/Dinner
+Ayam goreng kalasan paha,275.0,12.2,37.4,1.3,Lunch/Dinner
+Ayam goreng kentucky dada,298.0,16.8,34.2,0.1,Lunch/Dinner
+Ayam goreng Kentucky paha,286.0,16.1,32.1,1.1,Lunch/Dinner
+Ayam goreng mbok berek dada,295.0,13.6,39.2,1.0,Lunch/Dinner
+Ayam goreng paha,287.0,15.7,31.0,1.7,Lunch/Dinner
+Ayam goreng pasundan dada,246.0,9.0,37.9,0.7,Lunch/Dinner
+Ayam goreng pasundan paha,245.0,11.4,33.1,0.3,Lunch/Dinner
+Ayam goreng pioneer dada,295.0,14.7,37.4,0.6,Lunch/Dinner
+Ayam goreng sukabumi dada,244.0,9.2,36.7,1.0,Lunch/Dinner
+Ayam goreng sukabumi paha,283.0,14.3,35.7,0.5,Lunch/Dinner
+Ayam hati segar,261.0,16.1,27.4,1.6,Lunch/Dinner
+Ayam taliwang masakan,264.0,20.1,18.2,2.7,Lunch/Dinner
+Ayam usus goreng,473.0,26.3,45.2,13.9,Lunch/Dinner
+Babat,113.0,4.2,17.6,0.0,Lunch
+Babi daging gemuk segar,453.0,45.0,11.9,0.0,Lunch
+Babi daging kurus segar,371.0,35.0,14.1,0.0,Lunch
+Babi ginjal segar,110.0,4.6,16.3,0.8,Lunch
+Babi hati segar,129.0,4.8,19.7,1.7,Lunch
+Babi hutan masak rica masakan,491.0,16.3,24.6,0.2,Lunch
+Bacang,102.9,2.7,3.3,16.3,Lunch
+Bagea kelapa asin,450.0,13.9,3.2,78.1,Lunch
+Bagea kelapa manis,452.0,13.8,1.3,80.6,Lunch
+Bagea kenari asin,529.0,29.1,3.2,63.6,Lunch
+Bagea kenari manis,523.0,28.2,3.2,64.2,Lunch
+Bagea kw 1,416.0,9.4,6.5,76.3,Lunch
+Bagea kw 2,382.0,3.5,0.3,87.2,Lunch
+Baje,129.0,6.6,1.9,15.6,Lunch
+Bakpia kue,272.0,6.7,8.7,44.1,Breakfast
+Bakso ,76.0,2.5,4.1,9.2,Carbs
+Bakung segar,27.0,0.2,2.0,4.2,Lunch
+Bakwan,280.0,10.2,8.2,39.0,Lunch
+Baligo,13.0,0.2,0.4,3.0,Lunch
+Bantal,190.0,0.3,3.3,43.5,Lunch
+Barongko,159.0,5.8,3.1,23.5,Snack
+Batang Tading,137.0,4.8,4.3,19.1,Lunch
+Batar daan,107.0,2.2,2.2,19.6,Lunch
+Batatas gembili segar,76.0,0.9,1.1,16.0,Lunch
+Batatas kelapa ubi bakar,110.0,1.1,1.4,23.4,Carbs
+Batatas kelapa ubi kukus,92.0,0.3,1.2,21.0,Carbs
+Batatas kelapa ubi segar,89.0,0.1,1.1,21.0,Carbs
+Batatas tali ubi rebus,182.0,0.4,2.4,42.2,Carbs
+Bawang Bombay,45.0,0.2,1.4,10.3,Lunch
+Bawang Merah,39.0,0.3,1.5,0.2,Lunch
+Bawang Putih,95.0,0.2,4.5,23.1,Lunch
+Bayam kukus,30.0,0.7,1.3,5.8,Lunch/Dinner
+Bayam Merah,51.0,0.5,4.6,10.0,Lunch/Dinner
+Bayam merah segar,41.0,0.8,2.2,6.3,Lunch/Dinner
+Bayam rebus,23.0,0.6,1.2,3.7,Lunch/Dinner
+Bayam segar,36.0,0.5,3.5,6.5,Lunch/Dinner
+Bayam tumis + oncom,102.0,6.7,3.7,6.9,Lunch/Dinner
+Bayam tumis bersantan,48.0,4.2,1.4,2.6,Lunch/Dinner
+Bebek (itik),326.0,28.6,16.0,0.0,Lunch/Dinner
+Bebek alabio daging segar,303.0,27.0,11.3,3.7,Lunch/Dinner
+Bebek daging goreng,300.0,20.7,24.0,4.5,Lunch/Dinner
+Beberuk,65.0,5.2,1.1,3.5,Lunch
+Beef burger,258.0,9.5,10.6,32.5,Lunch/Dinner
+Beef teriyaki masakan,151.0,3.1,8.6,22.3,Lunch/Dinner
+Beef yakiniku masakan,132.0,1.1,9.8,20.7,Lunch/Dinner
+Bekasam,116.0,4.9,11.9,6.1,Lunch
+Bekasang,78.0,2.0,11.4,3.6,Lunch
+Belibis daging segar,131.0,4.3,20.2,2.8,Lunch
+Belimbing,36.0,0.4,0.4,8.8,Lunch
+Belitung talas kukus,145.0,0.4,1.2,34.2,Carbs
+Belut goreng,417.0,19.4,25.9,32.0,Lunch
+Belut segar,70.0,0.8,14.6,1.0,Lunch
+Belutlaut segar,93.0,1.5,12.8,6.1,Lunch
+Bengkuang,55.0,0.2,1.4,12.8,Lunch
+Bentul (Komba)  talas segar,98.0,0.7,1.6,20.9,Carbs
+Bentul talas kukus,71.0,0.3,2.3,15.4,Carbs
+Beras Cerdas,350.0,1.1,2.7,82.3,Carbs
+Beras ganyong,364.0,0.7,3.4,86.3,Carbs
+Beras Giling,360.0,0.7,6.8,78.9,Carbs
+Beras Giling masak (nasi) ,178.0,0.1,2.1,40.6,Carbs
+Beras giling mentah,357.0,1.7,8.4,77.1,Carbs
+Beras giling var pelita mentah,369.0,1.4,9.5,77.1,Carbs
+Beras giling var rojolele mentah,357.0,1.7,8.4,77.1,Carbs
+Beras hitam mentah,351.0,1.3,8.0,76.9,Carbs
+Beras jagung kuning kering mentah,358.0,0.1,5.5,82.7,Carbs
+Beras jagung putih kering mentah,307.0,0.1,4.8,71.8,Carbs
+Beras Ketan Hitam,356.0,0.7,7.0,78.0,Carbs
+Beras Ketan Hitam kukus,181.0,1.2,4.0,37.3,Carbs
+Beras Ketan Hitam tape,166.0,1.0,3.8,34.4,Carbs
+Beras Ketan Hitam tumbuk,360.0,2.3,8.0,74.5,Carbs
+Beras ketan hitam tumbuk mentah,360.0,2.3,8.0,74.5,Carbs
+Beras Ketan Putih,362.0,0.7,6.7,79.4,Carbs
+Beras Ketan Putih kukus,163.0,0.4,3.0,35.7,Carbs
+Beras Ketan Putih tape,172.0,0.5,3.0,37.5,Carbs
+Beras Ketan Putih tumbuk,361.0,0.8,7.4,78.4,Carbs
+Beras ketan putih tumbuk mentah,361.0,0.8,7.4,78.4,Carbs
+Beras ladang mentah,376.0,3.8,7.5,78.0,Carbs
+Beras Menir,339.0,4.4,7.7,73.0,Carbs
+Beras menir mentah,362.0,4.4,7.7,73.0,Carbs
+Beras Merah tumbuk,359.0,0.9,7.5,77.6,Carbs
+Beras Parboiled,364.0,0.6,6.8,80.1,Carbs
+Beras parboiled,353.0,0.6,6.8,80.0,Carbs
+Beras Pecah Kulit,335.0,1.9,7.4,76.2,Carbs
+Beras Setengah Giling,363.0,1.1,7.6,78.3,Carbs
+Beras Siger,344.0,0.2,1.1,28.3,Carbs
+Beras tumbuk mentah,354.0,0.4,7.8,79.9,Carbs
+Beras tumbuk merah mentah,352.0,0.9,7.3,76.2,Carbs
+Betok wadi masakan,145.0,7.0,16.3,4.1,Lunch
+Bihun,360.0,0.1,4.7,82.1,Carbs
+Bihun Goreng ,154.0,4.5,3.0,25.5,Carbs
+Bihun goreng instan,381.0,3.9,6.1,80.3,Carbs
+Bihun Jagung mentah,354.0,0.3,0.5,87.4,Carbs
+Bihun mentah,348.0,0.1,4.7,82.1,Carbs
+Biji Jambu Mete,562.0,49.6,21.2,23.6,Snack
+Biji Jambu Mete goreng,629.0,56.6,21.5,19.8,Snack
+Biji nangka/Biji salak,262.0,5.4,2.3,51.1,Snack
+Bika ambon,199.0,1.5,2.1,44.4,Snack
+Bika Ambon ,225.7,0.3,3.0,52.9,Snack
+Bir (4% alkohol),48.0,0.0,0.6,4.4,Drink
+Biskuit,458.0,14.4,6.9,75.1,Breakfast
+Bit,42.0,0.1,1.6,9.6,Lunch
+Biwah segar,51.0,0.1,0.3,12.1,Lunch
+Bonggol Pisang,43.0,0.0,2.6,11.6,Snack
+Bonggol Pisang kering,245.0,0.0,3.4,66.2,Snack
+Bongkrek (tempe bungkil),119.0,3.5,4.4,18.3,Lunch/Dinner
+Boros Kunci,23.0,0.8,1.0,7.2,Lunch
+Boros Laja (lengkuas),22.0,0.3,1.0,4.7,Lunch
+Botok lamtoro,186.0,9.7,11.7,13.0,Lunch
+Brem,249.0,0.4,3.4,58.0,Lunch
+Brondong ,400.0,0.7,4.0,95.3,Lunch
+Brongkos,141.0,3.3,15.3,12.6,Lunch
+Buah Atung,23.0,0.2,0.8,5.2,Lunch
+Buah kelenting segar,110.0,2.1,1.4,21.4,Lunch
+Buah kelor,38.0,0.2,1.5,7.5,Lunch
+Buah kom segar,264.0,1.1,4.0,59.6,Lunch
+Buah Mentega (bisbul),39.0,0.2,0.7,9.7,Lunch
+Buah merah,87.0,2.7,2.6,13.1,Lunch
+Buah Naga Merah segar,71.0,3.1,1.7,9.1,Lunch
+Buah Naga Putih segar,56.0,1.0,0.8,10.9,Lunch
+Buah negri segar,55.0,0.1,1.2,12.2,Lunch
+Buah Nona,101.0,0.6,1.7,25.2,Lunch
+Buah rotan segar,78.0,0.3,0.6,18.2,Lunch
+Buah rukam segar,113.0,0.3,0.8,26.8,Lunch
+Buah ruruhi segar,29.0,0.7,2.1,3.6,Lunch
+Buah tuppa segar,67.0,0.2,0.4,15.9,Lunch
+Buaya daging dendeng mentah,365.0,4.8,49.6,30.8,Lunch
+Bubur ,60.0,60.0,1.0,13.0,Breakfast
+Bubur sagu,167.0,4.0,0.2,33.0,Carbs
+Bubur tinotuan (Manado),156.0,0.2,2.3,15.6,Breakfast
+Bulgogi masakan,72.0,4.9,11.4,1.4,Lunch
+Bulung Jajan,212.0,0.2,16.9,47.6,Lunch
+Bulung Sangu,237.0,0.2,14.7,56.0,Lunch
+Buncis,35.0,0.2,2.4,7.7,Lunch
+Buncis asam,60.0,0.5,5.1,8.5,Lunch
+Buncis rebus,30.0,0.2,2.2,6.4,Lunch
+Bunga pepaya segar,45.0,0.3,2.6,8.1,Lunch
+Bunga turi segar,42.0,1.1,2.0,6.1,Lunch
+Bungkil Biji Karet,333.0,3.3,29.3,50.0,Lunch
+Bungkil Kacang Tanah,336.0,13.0,37.4,30.5,Carbs
+Bungkil Kelapa,368.0,15.0,23.0,40.0,Lunch
+Buntil ,106.0,6.3,4.4,7.9,Lunch
+Buntil daun talas,141.0,10.2,4.4,8.0,Carbs
+Buras ,125.7,1.9,3.3,23.9,Lunch
+Burung sarang segar,281.0,0.3,37.5,32.1,Lunch
+Cabai gembor merah segar,38.0,0.8,1.6,6.3,Lunch
+Cabai hijau segar,26.0,0.3,0.7,5.2,Lunch
+Cabai merah kering,367.0,6.2,15.9,61.8,Lunch
+Cabai merah segar,36.0,0.3,1.0,7.3,Lunch
+Cabai rawit segar,120.0,2.4,4.7,19.9,Lunch
+Caisin segar,20.0,0.4,1.7,3.4,Lunch
+Cakalang asar (asap papua),155.0,3.8,20.1,10.2,Lunch
+Cake tape,323.0,11.5,4.9,50.1,Lunch
+Cammetutu,102.0,6.0,3.2,8.7,Lunch
+Cantel mentah,366.0,3.3,11.0,73.0,Lunch
+Cap cai sayur,97.0,6.3,5.8,4.2,Lunch/Dinner
+Carica papaya segar,24.0,0.2,1.9,3.7,Lunch
+Cassavastick,460.0,18.7,0.8,17.2,Lunch
+Cempedak,116.0,0.4,3.0,28.6,Lunch
+Cengkeh kering,330.0,8.9,5.2,57.4,Lunch
+Centel,332.0,3.3,11.0,73.0,Lunch
+Ceriping getuk singkong,462.0,20.7,1.2,67.7,Carbs
+Chicken teriyaki masakan,168.0,9.6,13.0,7.5,Lunch/Dinner
+Chikiniku masakan,143.0,1.4,9.8,22.8,Lunch
+Coklat bubuk,311.0,4.0,8.0,48.9,Lunch
+Coklat Manis batang,472.0,29.8,2.0,62.7,Lunch
+Coklat Pahit batang,504.0,52.9,5.5,29.2,Lunch
+Coklat Susu batang,381.0,35.0,9.0,53.6,Drink
+Combro ,210.0,6.6,1.6,35.8,Snack
+Corned Beef,241.0,25.0,16.0,0.0,Carbs
+Coto mangkasara kuda masakan,96.0,5.9,6.8,3.8,Lunch
+Coto mangkasara sapi masakan,84.0,6.0,6.0,1.4,Lunch
+Cue Selar Kuning,145.0,2.3,27.0,0.0,Lunch
+Cuka,12.0,0.1,0.1,5.0,Lunch
+Cumi-cumi goreng,265.0,10.1,40.6,0.0,Lunch/Dinner
+Cumi-cumi segar,75.0,0.7,16.1,0.1,Lunch/Dinner
+Daging Anak Sapi,190.0,12.0,19.1,0.0,Lunch
+Daging Asap,191.0,6.0,32.0,0.0,Lunch
+Daging Babi Gemuk,457.0,45.0,11.6,0.0,Lunch
+Daging Babi Kurus,376.0,35.0,14.1,0.0,Lunch
+Daging Domba,206.0,14.8,17.1,0.0,Lunch
+Daging Kambing,154.0,9.2,16.6,0.0,Lunch
+Daging Kerbau,84.0,0.5,18.7,0.0,Lunch
+Daging Kuda,118.0,4.1,18.1,0.9,Lunch
+Daging Sapi,207.0,14.0,18.8,0.0,Lunch
+Daun bangun-bangun segar,27.0,0.6,1.3,4.0,Lunch
+Daun Bawang,29.0,0.7,1.8,5.2,Lunch
+Daun bawang  merah segar,41.0,0.3,2.0,7.8,Lunch
+Daun bebuas segar,41.0,1.0,2.7,7.3,Lunch
+Daun belem segar,50.0,1.4,4.4,7.8,Lunch
+Daun Beluntas,42.0,0.5,1.8,9.4,Lunch
+Daun Cincau,122.0,1.0,6.0,26.0,Lunch
+Daun Gandaria,60.0,0.3,3.1,14.0,Lunch
+Daun gedi besar segar,58.0,0.7,2.9,10.0,Drink
+Daun gelang segar,30.0,0.7,1.3,5.8,Lunch
+Daun gunda bali segar,50.0,0.9,4.6,7.0,Lunch
+Daun gunda serang segar,62.0,0.9,4.2,9.2,Lunch
+Daun Jambu Mete muda,73.0,0.5,4.6,16.2,Snack
+Daun jampang segar,34.0,0.5,3.8,5.3,Lunch
+Daun jawaw seluang segar,93.0,1.3,5.0,15.3,Lunch
+Daun jonghe segar,27.0,0.7,2.1,4.4,Lunch
+Daun kacang ma segar,36.0,0.6,2.9,6.8,Carbs
+Daun Kacang Panjang,34.0,0.4,4.1,5.8,Carbs
+Daun Kacang Panjang kukus,40.0,0.3,3.7,8.0,Carbs
+Daun kacang panjang segar,30.0,0.3,3.1,5.8,Carbs
+Daun kasbi/singkong karet segar,92.0,3.6,4.0,10.9,Carbs
+Daun Katuk,59.0,1.0,4.8,11.0,Lunch
+Daun katuk rebus,53.0,0.9,5.3,9.1,Lunch
+Daun katuk segar,59.0,1.0,6.4,9.9,Lunch
+Daun Kecipir,47.0,0.5,5.0,8.5,Lunch
+Daun Kedondong,59.0,0.3,2.8,13.4,Lunch
+Daun Kelor,82.0,1.7,6.7,14.3,Lunch
+Daun Kelor rebus,61.0,0.9,6.1,10.0,Lunch
+Daun Kemangi,46.0,0.5,4.0,8.9,Lunch
+Daun kenikir segar,45.0,0.5,3.7,6.6,Lunch
+Daun kesum segar,48.0,0.8,4.5,9.1,Drink
+Daun kol sawi segar,22.0,0.5,2.1,3.6,Lunch
+Daun Koro,23.0,0.3,3.0,3.7,Lunch
+Daun kubis segar,51.0,1.1,2.5,8.0,Carbs
+Daun Kumak,14.0,0.3,1.3,2.3,Lunch
+Daun Labu Siam,60.0,0.4,4.0,4.7,Lunch
+Daun Labu Waluh,30.0,0.6,3.6,4.5,Lunch
+Daun lamtoro segar,87.0,1.8,8.3,14.4,Lunch
+Daun leilem segar,76.0,0.2,2.8,15.8,Lunch
+Daun Leunca,45.0,0.5,4.7,8.1,Lunch
+Daun Lobak,30.0,0.4,2.3,5.8,Lunch
+Daun Lompong Tales,40.0,0.8,3.0,7.4,Drink
+Daun Mangkokan,54.0,0.3,3.7,11.8,Lunch
+Daun matel ambon segar,71.0,1.6,6.8,11.5,Lunch
+Daun Melinjo,99.0,1.3,5.0,21.3,Lunch
+Daun Mengkudu Kukus,63.0,1.5,3.8,11.5,Lunch
+Daun ndusuk segar,166.0,0.5,1.7,38.8,Lunch
+Daun Oyong,22.0,0.1,1.0,5.3,Lunch
+Daun oyong segar,22.0,0.1,1.0,5.3,Lunch
+Daun Pakis,35.0,0.3,4.0,6.4,Lunch
+Daun pakis longgiho segar,54.0,3.6,2.2,3.1,Lunch
+Daun pakis segar,39.0,0.4,4.5,6.9,Lunch
+Daun pakis wambateu segar,53.0,1.2,3.4,7.2,Lunch
+Daun paku segar,29.0,0.1,3.4,6.5,Lunch
+Daun pangisegar,104.0,0.6,3.9,17.9,Lunch
+Daun pare segar,49.0,1.0,2.7,8.4,Lunch
+Daun pepaya segar,87.0,2.0,8.0,11.9,Lunch
+Daun Pete Cina,128.0,6.5,12.0,12.4,Lunch
+Daun Poh-pohan,37.0,0.8,2.5,6.9,Lunch
+Daun salam  bubuk,301.0,10.9,14.2,49.0,Lunch
+Daun selasih segar,62.0,0.5,4.0,10.5,Lunch
+Daun Semanggi,45.0,8.0,4.4,0.5,Lunch
+Daun semanggi segar,45.0,0.5,4.4,8.5,Lunch
+Daun simpur segar,53.0,2.5,3.2,7.6,Lunch
+Daun singkil segar,68.0,1.0,2.0,15.2,Lunch
+Daun Singkong,73.0,1.2,6.8,13.0,Carbs
+Daun singkong ambon segar,144.0,1.2,12.7,25.2,Carbs
+Daun singkong ampenan segar,50.0,1.1,6.2,7.1,Carbs
+Daun singkong kopang segar,74.0,0.7,6.3,10.7,Carbs
+Daun Singkong lodeh,55.0,0.5,4.0,8.5,Carbs
+Daun Singkong rebus,31.0,0.6,3.7,4.8,Carbs
+Daun singkong segar,50.0,1.1,6.2,7.1,Carbs
+Daun Sintrong,36.0,0.9,2.6,6.1,Lunch
+Daun talas rebus,27.0,0.2,1.3,5.9,Carbs
+Daun talas segar,59.0,0.4,3.0,13.5,Carbs
+Daun Tales,71.0,2.1,4.1,12.3,Drink
+Daun Tales rebus,27.0,0.2,1.3,5.9,Drink
+Daun tespong segar,70.0,0.3,2.9,13.9,Drink
+Daun Ubi Jalar,47.0,0.4,2.8,10.4,Carbs
+Daun Ubi Jalar kukus,56.0,0.3,3.1,13.0,Carbs
+Daun ubi kuning segar,62.0,0.3,3.7,11.1,Carbs
+Daun ubi merah kukus,56.0,0.3,3.1,13.0,Carbs
+Daun ubi merah segar,48.0,0.3,3.0,10.8,Carbs
+Daun ubi putih segar,46.0,0.2,2.8,8.2,Carbs
+Daun ubi tinta segar,55.0,0.1,1.7,11.9,Carbs
+Deblo ,260.0,15.0,2.0,53.0,Lunch
+Dendeng belut goreng,382.0,14.1,55.7,8.0,Lunch
+Dendeng Daging Sapi,433.0,9.0,55.0,0.0,Lunch
+Dendeng mujahir goreng,598.0,26.9,74.3,9.2,Lunch
+Dideh darah ayam,77.0,1.9,13.8,0.7,Lunch/Dinner
+Dideh darah sapi,104.0,1.1,21.9,0.0,Lunch
+Djibokum masakan,248.0,2.3,10.0,40.9,Lunch
+Dodol,395.0,5.7,3.0,81.2,Snack
+Dodol bali,298.0,2.1,3.7,65.9,Snack
+Dodol banjarmasin,368.0,8.6,2.6,70.0,Snack
+Dodol galamai,348.0,3.8,0.4,76.1,Snack
+Dodol kedondong,331.0,7.6,1.9,63.8,Snack
+Dodol manado,373.0,16.5,4.3,51.9,Snack
+Dodonkol ,17.5,2.3,3.3,39.5,Lunch
+Domba daging gemuk segar,317.0,27.7,15.7,0.0,Lunch
+Domba daging kurus  segar,202.0,14.8,17.1,0.0,Lunch
+Domba ginjal segar,100.0,3.3,16.6,1.0,Lunch
+Duku,63.0,0.2,1.0,16.1,Lunch
+Durian,134.0,3.0,2.5,28.0,Lunch
+Duwet segar,80.0,0.6,0.5,18.2,Lunch
+Eceng Gondok,18.0,0.2,1.0,3.8,Lunch
+Embacang,98.0,0.2,1.4,25.4,Lunch
+Empal (daging) Goreng masakan,248.0,6.9,36.2,10.1,Lunch
+Empal Goreng,590.0,57.0,18.5,0.0,Lunch
+Emping (kerupuk melinjo),345.0,1.5,12.0,71.5,Carbs
+Emping beras,403.0,2.2,10.6,85.3,Carbs
+Emping komak,355.0,4.6,17.8,60.7,Carbs
+Encung asam segar,122.0,4.5,3.5,17.5,Lunch
+Enting-enting gepuk hello kity,538.0,30.3,13.6,52.6,Lunch
+Enting-enting gepuk kacang tanah,524.0,29.2,13.3,52.0,Carbs
+Enting-enting wijen,565.0,38.4,18.2,36.8,Lunch
+Erbis,70.0,0.0,0.6,18.9,Lunch
+Es krim,210.0,12.5,4.0,20.6,Drink
+Es Krim (Coconut milk) ,156.7,1.7,3.0,32.7,Drink
+Es Mambo ,152.0,0.0,0.0,37.6,Drink
+Es Sirup ,44.8,0.0,0.0,11.3,Drink
+Fillet o-fish,270.0,15.9,12.3,19.3,Lunch/Dinner
+Gadeng/Gadung kering,322.0,0.6,2.4,76.6,Lunch
+Gado-gado,137.0,3.2,6.1,21.0,Lunch/Dinner
+Gadung kukus,88.0,0.3,0.8,20.9,Lunch
+Gadung mentah,101.0,0.2,2.1,23.2,Lunch
+Gadung ubi kukus,88.0,0.3,0.6,20.9,Carbs
+Gadung ubi segar,100.0,0.3,0.9,23.5,Carbs
+Gambas (Oyong),18.0,0.2,0.8,4.1,Lunch
+Gambas lodeh,13.0,0.6,0.3,1.6,Lunch/Dinner
+Gandaria,68.0,0.1,0.7,18.0,Lunch
+Ganyong kukus,100.0,0.2,0.8,23.8,Lunch
+Ganyong mentah,95.0,0.1,1.0,22.6,Lunch
+Ganyong rebus,100.0,0.2,0.8,23.8,Lunch
+Ganyong segar,77.0,0.2,0.6,18.4,Lunch
+Gaplek,338.0,0.7,1.5,81.3,Carbs
+Gatep segar,191.0,1.5,4.5,39.7,Lunch
+Gatot,347.0,0.7,1.3,83.8,Lunch
+Geblek,195.0,1.7,0.4,44.4,Lunch
+Gelatine,389.0,0.0,0.0,91.0,Lunch
+Gembili,95.0,0.1,1.5,22.4,Lunch
+Gembili ubi segar,131.0,0.2,1.1,31.3,Carbs
+Gemblong,274.0,5.4,1.7,55.5,Lunch
+Gendar goreng,407.0,28.2,6.4,32.0,Lunch
+Genjer segar,35.0,0.2,1.7,7.7,Lunch
+Geplak,350.0,14.4,1.4,53.6,Lunch
+Geplak jahe,462.0,24.4,3.1,57.7,Lunch
+Gete kuah asam masakan,75.0,2.0,8.2,6.0,Lunch
+Getuk goreng,360.0,6.4,1.3,74.3,Snack
+Getuk Lindri ,171.4,4.0,4.0,32.0,Snack
+Getuk pisang,144.0,0.4,1.1,34.1,Snack
+Getuk singkong,204.0,1.4,0.5,47.4,Carbs
+Ginjal Babi,114.0,4.6,16.3,0.8,Lunch
+Ginjal Domba,105.0,3.3,16.6,1.0,Lunch
+Ginjal Sapi,141.0,8.1,15.0,0.9,Lunch
+Gudeg ,53.0,1.6,1.6,8.8,Lunch/Dinner
+Gudeg sayur,160.0,9.2,3.3,16.0,Lunch/Dinner
+Gula Aren,368.0,0.0,0.0,95.0,Lunch
+Gula Kelapa,386.0,10.0,3.0,76.0,Lunch
+Gula Merah Tebu belum dimurnikan,356.0,0.5,0.4,90.6,Lunch/Dinner
+Gula putih,394.0,0.0,0.0,94.0,Lunch
+Gulai asam keueung masakan,52.0,0.5,10.0,1.8,Lunch/Dinner
+Gulai ikan masakan,106.0,3.3,16.5,2.5,Lunch/Dinner
+Gulai ikan paya masakan,148.0,9.8,10.0,5.0,Lunch/Dinner
+Gulai kambing,126.0,9.4,4.2,6.2,Lunch/Dinner
+Gulai keumamah masakan,110.0,8.2,5.9,3.2,Lunch/Dinner
+Gulai pakis,143.0,11.4,4.0,6.0,Lunch/Dinner
+Gulai pliek,176.0,14.9,7.3,3.2,Lunch/Dinner
+Gulai tiram masakan,132.0,7.2,9.0,7.8,Lunch/Dinner
+Gurame asem manis masakan,192.0,10.1,12.7,12.7,Lunch
+Gurandil,218.0,2.5,0.5,48.5,Lunch
+Ham,389.0,35.0,16.9,0.3,Lunch
+Hangop,65.0,1.0,10.0,3.5,Lunch
+Hati Babi,134.0,4.8,19.7,1.7,Lunch
+Hati Sapi,136.0,3.2,19.7,6.0,Lunch
+Havermout,390.0,7.4,14.2,68.2,Lunch
+Hofa/Ubi hutan segar,127.0,0.5,1.2,29.5,Carbs
+Ikan asar merah masakan,146.0,5.9,17.7,5.6,Lunch/Dinner
+Ikan Asin bilis goreng,380.0,27.5,33.6,0.0,Lunch/Dinner
+Ikan Asin gabus goreng,456.0,24.4,46.5,0.0,Lunch/Dinner
+Ikan Asin japuh goreng,348.0,29.5,18.7,0.0,Lunch/Dinner
+Ikan Asin kering,193.0,1.5,42.0,0.0,Lunch/Dinner
+Ikan Asin pari goreng,430.0,23.6,58.2,0.0,Lunch/Dinner
+Ikan Asin pepetek goreng,652.0,54.3,40.4,0.0,Lunch/Dinner
+Ikan Asin sirinding goreng,319.0,31.7,6.9,0.0,Lunch/Dinner
+Ikan Asin teri goreng,430.0,32.4,33.4,0.0,Lunch/Dinner
+Ikan Bader (Tawes),198.0,13.0,19.0,0.0,Drink
+Ikan balong segar,107.0,3.9,16.5,1.5,Lunch/Dinner
+Ikan bambangan segar,112.0,1.3,20.0,3.7,Lunch/Dinner
+Ikan Bandeng,129.0,4.8,20.0,0.0,Lunch/Dinner
+Ikan bandeng presto masakan,296.0,20.3,17.1,11.3,Drink
+Ikan banjar segar,111.0,0.9,19.4,4.8,Lunch/Dinner
+Ikan baronang segar,78.0,0.6,14.5,3.7,Lunch/Dinner
+Ikan baung bakar,144.0,5.8,17.8,5.2,Lunch/Dinner
+Ikan baung segar,123.0,5.5,15.1,3.3,Lunch/Dinner
+Ikan Bawal,96.0,1.7,19.0,0.0,Lunch/Dinner
+Ikan Bekasang,138.0,0.7,14.0,7.4,Lunch/Dinner
+Ikan Belida bakar,128.0,3.0,18.0,7.2,Lunch/Dinner
+Ikan Belida segar,80.0,1.4,14.7,2.2,Lunch/Dinner
+Ikan Belut Segar goreng,417.0,19.4,25.9,32.0,Lunch/Dinner
+Ikan Belut Segar mentah,82.0,1.0,6.7,10.9,Lunch/Dinner
+Ikan Beunteur,66.0,0.0,14.0,0.0,Lunch/Dinner
+Ikan biawan segar,90.0,2.5,14.9,2.1,Lunch/Dinner
+Ikan bili segar,88.0,0.7,14.2,6.2,Lunch/Dinner
+Ikan bubara segar,100.0,2.4,14.7,4.9,Lunch/Dinner
+Ikan bulan-bulan segar,134.0,1.3,25.5,5.0,Lunch/Dinner
+Ikan cakalang asap mentah,204.0,5.6,34.2,1.9,Lunch/Dinner
+Ikan cakalang asin mentah,198.0,2.2,36.5,5.5,Lunch/Dinner
+Ikan cakalang hati segar,120.0,3.9,11.3,10.0,Lunch/Dinner
+Ikan cakalang jantung segar,116.0,1.2,11.2,10.2,Lunch/Dinner
+Ikan cakalang perut segar,86.0,1.1,10.2,8.7,Lunch/Dinner
+Ikan cakalang segar,107.0,0.7,19.6,5.5,Lunch/Dinner
+Ikan calo/ peda mentah,81.0,1.9,11.4,3.8,Lunch/Dinner
+Ikan daun segar,101.0,4.1,11.5,4.6,Lunch/Dinner
+Ikan Ekor Kuning,109.0,4.0,17.0,0.0,Lunch/Dinner
+Ikan Gabus asap mentah,261.0,2.3,38.1,21.9,Lunch/Dinner
+Ikan Gabus kering,292.0,4.0,58.0,0.0,Lunch/Dinner
+Ikan Gabus segar,74.0,1.7,25.2,0.0,Lunch/Dinner
+Ikan gete goreng,267.0,19.4,23.1,0.2,Lunch/Dinner
+Ikan hitam segar,101.0,3.7,10.3,6.7,Lunch/Dinner
+Ikan hiu kering,298.0,3.6,46.3,20.2,Lunch/Dinner
+Ikan hiu segar,57.0,0.3,10.7,2.2,Lunch/Dinner
+Ikan kacangan segar,77.0,0.9,15.6,1.6,Carbs
+Ikan kakap segar,92.0,0.7,20.0,0.0,Lunch/Dinner
+Ikan kakatua segar,82.0,1.2,11.4,6.4,Lunch/Dinner
+Ikan kapar segar,132.0,6.7,17.0,0.8,Lunch/Dinner
+Ikan katombo asin,162.0,2.8,31.7,0.3,Lunch/Dinner
+Ikan kawalinya segar,110.0,4.2,12.6,5.4,Lunch/Dinner
+Ikan kayu kering,302.0,1.9,70.7,0.4,Lunch/Dinner
+Ikan Kembung,103.0,1.0,22.0,0.0,Lunch/Dinner
+Ikan kima segar,70.0,0.7,10.8,5.2,Lunch/Dinner
+Ikan Lais bakar,147.0,6.5,17.5,5.4,Lunch/Dinner
+Ikan Layang,109.0,1.7,22.0,0.0,Lunch/Dinner
+Ikan layur segar,82.0,1.0,18.0,0.4,Lunch/Dinner
+Ikan lehoma segar,90.0,0.9,20.4,0.0,Lunch/Dinner
+Ikan Lele goreng,252.0,19.1,19.9,0.0,Lunch/Dinner
+Ikan Lemuru,112.0,3.0,20.0,0.0,Lunch/Dinner
+Ikan lidah segar,104.0,3.2,15.6,2.0,Lunch/Dinner
+Ikan lomak asin mentah,258.0,2.3,40.3,18.9,Lunch/Dinner
+Ikan malalugis segar,99.0,1.4,20.6,0.9,Lunch/Dinner
+Ikan Mas,86.0,2.0,16.0,0.0,Lunch/Dinner
+Ikan Mas goreng,188.0,12.2,19.3,0.0,Lunch/Dinner
+Ikan Mas pepes,209.0,11.3,15.2,11.8,Drink
+Ikan mayong segar,97.0,2.0,17.9,0.4,Lunch/Dinner
+Ikan Mujair dendeng goreng,598.0,26.9,74.3,9.2,Lunch/Dinner
+Ikan Mujair dendeng mentah,582.0,15.2,68.3,37.2,Lunch/Dinner
+Ikan Mujair goreng,416.0,23.9,46.9,0.0,Lunch/Dinner
+Ikan Mujair pepes,121.0,2.8,21.7,0.8,Drink
+Ikan Mujair segar,89.0,1.0,18.7,0.0,Lunch/Dinner
+Ikan nasu metti segar,154.0,5.0,16.8,10.5,Lunch/Dinner
+Ikan oci kembung segar,125.0,3.4,21.3,2.2,Lunch/Dinner
+Ikan Papuyu bakar,152.0,6.1,17.6,6.7,Lunch/Dinner
+Ikan papuyu/ betok segar,120.0,4.9,14.3,4.6,Lunch/Dinner
+Ikan Patin bakar,144.0,6.3,17.5,4.3,Lunch/Dinner
+Ikan Patin segar,132.0,6.6,17.0,1.1,Lunch/Dinner
+Ikan peda banjar mentah,156.0,4.0,28.0,2.0,Lunch/Dinner
+Ikan Pepetek,176.0,4.4,32.0,0.0,Lunch/Dinner
+Ikan Pindang banjar mentah,157.0,4.2,28.0,1.8,Lunch/Dinner
+Ikan Pindang benggol mentah,170.0,4.2,31.0,0.0,Lunch/Dinner
+Ikan Pindang layang mentah,153.0,2.8,30.0,0.0,Lunch/Dinner
+Ikan Pindang selar mentah,142.0,3.0,27.0,0.0,Lunch/Dinner
+Ikan sale lais mentah,415.0,17.6,61.3,2.9,Lunch/Dinner
+Ikan Sale segar,534.0,39.3,40.2,4.9,Lunch/Dinner
+Ikan saluang kering mentah,284.0,9.9,34.1,14.6,Lunch/Dinner
+Ikan saluang segar,113.0,4.9,13.9,3.4,Lunch/Dinner
+Ikan sanggang masakan,240.0,7.7,21.7,20.7,Lunch/Dinner
+Ikan sarden segar,109.0,1.8,19.9,3.4,Lunch/Dinner
+Ikan Segar,113.0,4.5,17.0,0.0,Lunch/Dinner
+Ikan Selar kering,194.0,3.5,38.0,0.0,Lunch/Dinner
+Ikan selar kuning cue mentah,138.0,3.3,27.0,0.0,Lunch/Dinner
+Ikan selar segar,100.0,2.2,18.8,0.0,Lunch/Dinner
+Ikan Sepat kering,289.0,14.0,38.0,0.0,Lunch/Dinner
+Ikan sepat segar,84.0,0.6,15.2,4.7,Lunch/Dinner
+Ikan sidat segar,81.0,1.9,11.4,3.8,Lunch/Dinner
+Ikan sunu asin mentah,199.0,3.8,34.1,7.1,Lunch/Dinner
+Ikan sunu segar,111.0,3.4,13.3,6.7,Lunch/Dinner
+Ikan tahuman segar,88.0,0.9,15.9,4.1,Lunch/Dinner
+Ikan tarmon segar,96.0,1.1,19.5,2.0,Lunch/Dinner
+Ikan telan segar,95.0,0.7,15.8,6.5,Lunch/Dinner
+Ikan telur asin mentah,358.0,26.4,20.7,9.4,Lunch/Dinner
+Ikan Tembang,204.0,15.0,16.0,0.0,Lunch/Dinner
+Ikan tempahas segar,101.0,4.1,15.1,1.0,Lunch/Dinner
+Ikan tepung mentah,316.0,6.5,60.1,22.4,Carbs
+Ikan terbang segar,98.0,1.7,19.6,1.0,Lunch/Dinner
+Ikan Teri bubuk,277.0,2.3,60.0,1.8,Lunch/Dinner
+Ikan Teri kering,170.0,3.0,33.4,0.0,Lunch/Dinner
+Ikan Teri Kering tawar,331.0,4.2,68.7,0.0,Lunch/Dinner
+Ikan Teri Nasi kering,144.0,0.6,32.5,0.0,Carbs
+Ikan teri segar,74.0,1.4,10.3,4.1,Lunch/Dinner
+Ikan Teri tepung,347.0,6.4,48.8,19.6,Carbs
+Ikan titang segar,82.0,0.4,17.4,2.3,Lunch/Dinner
+Ikan tongkol segar,100.0,1.5,13.7,8.0,Lunch/Dinner
+Ikan turi segar,96.0,2.0,19.2,0.2,Lunch/Dinner
+Intip goreng,474.0,21.6,7.6,62.3,Lunch
+Itik alabio daging dendeng mentah,496.0,33.5,30.3,18.4,Lunch
+Jagung grontol,156.0,1.3,2.7,33.3,Carbs
+Jagung Kuning giling,361.0,4.5,8.7,72.4,Carbs
+Jagung Kuning muda,129.0,1.3,4.1,30.3,Carbs
+Jagung Kuning pipil baru,307.0,3.4,7.9,63.6,Carbs
+Jagung kuning pipil kering mentah,366.0,7.3,9.8,69.1,Carbs
+Jagung Kuning pipil lama,355.0,3.9,9.2,73.7,Carbs
+Jagung kuning pipil rebus,154.0,3.5,3.8,28.4,Carbs
+Jagung Kuning segar,140.0,1.3,4.7,33.1,Carbs
+Jagung kuning tepung,355.0,3.9,9.2,73.7,Carbs
+Jagung muda,35.0,0.1,2.2,7.4,Carbs
+Jagung muda kuning mentah,147.0,0.7,5.1,31.5,Carbs
+Jagung muda rebus,142.0,0.7,5.0,30.3,Carbs
+Jagung pipil var. harapan kering,367.0,5.1,6.2,76.2,Carbs
+Jagung pipil var. metro kering,368.0,4.6,5.5,78.0,Carbs
+Jagung Putih giling,361.0,4.5,8.7,72.4,Carbs
+Jagung Putih muda,129.0,1.3,4.1,30.3,Carbs
+Jagung Putih pipil baru,307.0,3.4,7.9,63.6,Carbs
+Jagung Putih pipil lama,355.0,3.9,9.2,73.7,Carbs
+Jagung Putih segar,140.0,1.3,4.7,33.1,Carbs
+Jagung Rebus ,175.0,1.8,1.8,35.0,Carbs
+Jagung Sayur (tumis) ,148.9,10.4,10.4,20.1,Carbs
+Jagung titi,374.0,2.2,9.4,79.1,Carbs
+Jahe,51.0,1.0,1.5,10.1,Lunch
+Jali,289.0,4.0,11.0,61.0,Lunch
+Jam selai,239.0,0.6,0.5,64.5,Lunch
+Jambal goreng,286.0,9.2,48.5,2.3,Lunch
+Jambu Air,46.0,0.0,0.6,11.8,Snack
+Jambu Biji,49.0,0.3,0.9,12.2,Snack
+Jambu biji putih tidak berbiji,61.0,0.3,0.9,15.4,Snack
+Jambu Bol,56.0,0.3,0.6,14.2,Snack
+Jambu Monyet buah,64.0,0.6,0.7,15.8,Snack
+Jampang huma mentah,350.0,1.4,6.2,78.2,Lunch
+Jamur Coklat (kulat siau),45.0,3.9,2.5,0.0,Lunch
+Jamur encik,296.0,1.1,9.4,62.0,Lunch
+Jamur kuping kering,294.0,0.9,16.0,64.6,Lunch
+Jamur kuping segar,21.0,0.6,3.8,0.9,Lunch
+Jamur merang segar,30.0,0.2,3.5,4.0,Lunch
+Jamur Putih (kulat putih),48.0,4.1,2.8,2.9,Lunch
+Jamur sagu,48.0,3.2,1.9,2.8,Carbs
+Jamur tiram segar,30.0,0.1,1.9,5.5,Lunch
+Jangang bintatoeng masakan,107.0,2.2,5.3,16.5,Lunch
+Jantung Pisang segar,31.0,0.3,1.2,7.1,Snack
+Japilus,500.0,25.1,1.2,67.3,Lunch
+Jaruk Tigarun,48.0,4.2,2.5,0.0,Lunch
+Jawawut,334.0,3.5,9.7,73.4,Lunch
+Jenang ,381.7,9.5,9.5,65.8,Lunch
+Jengkol segar,192.0,0.3,5.4,40.7,Lunch
+Jeruk Bali,48.0,0.2,0.6,12.4,Snack
+Jeruk banjar segar,61.0,0.2,0.8,14.1,Snack
+Jeruk Garut,44.0,0.3,0.8,10.9,Snack
+Jeruk Kalamansi segar,39.0,0.3,0.3,8.9,Snack
+Jeruk Manis,45.0,0.2,0.9,11.2,Snack
+Jeruk Nipis,37.0,0.1,0.8,12.3,Snack
+Jeruk ragi segar,49.0,0.2,0.7,11.1,Snack
+Jotang,32.0,0.3,1.9,7.1,Lunch
+Jukku pallu kaloa masakan,15.0,4.3,15.2,8.8,Lunch
+Kabau segar,130.0,0.3,6.7,25.2,Lunch
+Kaburan ubi segar,133.0,0.2,1.0,32.2,Carbs
+Kabuto,250.0,2.5,2.6,35.4,Lunch
+Kacang Andong,356.0,4.1,20.5,61.6,Carbs
+Kacang Arab,330.0,1.4,23.8,60.2,Carbs
+Kacang atom,533.0,38.1,27.8,28.8,Carbs
+Kacang babi kering,341.0,3.2,30.4,51.3,Carbs
+Kacang belimbing (kecipir) kering,400.0,16.9,34.4,34.1,Carbs
+Kacang Belimbing rebus,204.0,8.8,16.9,17.5,Carbs
+Kacang Belimbing tempe,212.0,10.0,17.5,12.9,Carbs
+Kacang beracun segar,118.0,1.5,4.4,21.6,Carbs
+Kacang Bogor goreng,479.0,23.2,12.7,58.9,Carbs
+Kacang bogor kering,370.0,6.0,16.0,65.0,Carbs
+Kacang Bogor rebus,161.0,2.8,7.7,27.1,Carbs
+Kacang bogor segar,165.0,3.1,7.7,27.4,Carbs
+Kacang Endel biji,331.0,1.0,25.0,58.0,Carbs
+Kacang ercis segar,129.0,0.7,12.4,18.3,Carbs
+kacang galing segar,336.0,1.7,23.1,59.5,Carbs
+Kacang goyang,516.0,31.1,14.7,44.4,Carbs
+Kacang Gude biji,336.0,1.4,20.7,62.0,Carbs
+Kacang gude biji kering,316.0,1.0,20.7,58.0,Carbs
+Kacang Gude biji muda,114.0,0.6,7.0,20.8,Carbs
+Kacang Gude muda,123.0,0.6,8.4,1.8,Carbs
+Kacang gude rebus,147.0,0.5,9.0,27.5,Carbs
+Kacang hijau kering,323.0,1.5,22.9,56.8,Carbs
+kacang hijau rebus,109.0,0.5,8.7,18.3,Carbs
+Kacang hijau var. bakti kering,350.0,1.8,17.1,70.7,Carbs
+Kacang hijau var. siwalik kering,339.0,2.1,20.8,64.6,Carbs
+Kacang hitam kering,346.0,1.7,16.6,66.1,Carbs
+Kacang Ijo,345.0,1.2,22.2,62.9,Carbs
+Kacang Kapri Goreng ,445.0,11.0,11.0,65.5,Carbs
+Kacang Kapri muda,98.0,0.4,6.7,17.7,Carbs
+Kacang Kedelai basah,286.0,15.6,30.2,30.1,Carbs
+Kacang kedelai goreng,521.0,37.7,32.2,22.9,Carbs
+Kacang kedelai kering,381.0,16.7,40.4,24.9,Carbs
+Kacang Kedelai kukus,75.0,2.1,4.1,10.7,Carbs
+Kacang kedelai rebus,189.0,8.2,20.2,12.7,Carbs
+Kacang kedelai segar,286.0,15.6,30.2,30.1,Carbs
+Kacang komak segar,327.0,4.3,16.4,55.8,Carbs
+Kacang kuning kering,355.0,2.5,17.0,66.0,Carbs
+Kacang lebui /iris kering,346.0,1.5,16.5,66.6,Carbs
+Kacang mekah polong segar,22.0,1.0,1.1,3.4,Carbs
+Kacang mentega kering,344.0,2.1,16.7,64.6,Carbs
+Kacang Merah,336.0,1.7,23.1,59.5,Carbs
+Kacang merah /banda kering,350.0,3.0,13.9,66.9,Carbs
+Kacang merah kering,314.0,1.1,22.1,56.2,Carbs
+Kacang Merah kering rebus,158.0,0.9,10.3,28.2,Carbs
+Kacang merah segar,171.0,2.2,11.0,28.0,Carbs
+Kacang Merah segar rebus,144.0,1.0,10.0,24.7,Carbs
+Kacang merah tua kering,280.0,1.6,16.7,63.2,Carbs
+Kacang mete/biji jambu monyet goreng,629.0,56.3,20.4,19.8,Carbs
+Kacang mete/biji jambu monyet segar,616.0,48.4,16.3,28.7,Carbs
+Kacang negara,480.0,19.1,18.4,58.5,Carbs
+Kacang Panjang,44.0,0.3,2.7,7.8,Carbs
+Kacang Panjang biji,357.0,1.5,17.3,70.0,Carbs
+Kacang Panjang kukus,39.0,0.6,3.0,7.6,Carbs
+Kacang Panjang tumis,150.0,12.5,2.5,7.0,Carbs
+Kacang ranti polong,37.0,0.2,3.1,7.9,Carbs
+Kacang sukro,484.0,26.1,8.8,57.7,Carbs
+Kacang Sukro Putih ,488.0,25.6,25.6,59.6,Carbs
+Kacang Tanah atom,535.0,38.1,27.8,28.8,Carbs
+Kacang tanah goreng,564.0,44.4,25.5,25.5,Carbs
+Kacang Tanah kacang sari,561.0,43.8,25.5,26.0,Carbs
+Kacang tanah kering,525.0,42.7,27.9,17.4,Carbs
+Kacang Tanah Rebus ,385.0,31.0,14.0,13.0,Carbs
+Kacang Tanah rebus berkulit,360.0,31.2,13.5,12.8,Carbs
+Kacang Tanah rempeyek,513.0,32.5,17.5,44.3,Carbs
+Kacang Tanah sangan berselaput,569.0,48.4,28.8,15.8,Carbs
+Kacang tanah sangan tanpa selaput,559.0,44.2,26.9,23.6,Carbs
+Kacang tanah sari,561.0,43.8,25.5,26.0,Carbs
+Kacang Telur ,748.0,20.8,20.8,124.8,Carbs
+Kacang tolo / tunggak kering,331.0,1.9,24.4,56.6,Carbs
+Kacang tolo rebus,138.0,1.1,10.7,22.6,Carbs
+Kacang Tunggak (tolo),342.0,1.4,22.9,61.6,Carbs
+Kacang Tunggak rebus,138.0,1.1,10.7,22.6,Carbs
+Kacang Tunggak rempeyek,451.0,20.2,11.2,59.7,Carbs
+Kacang tunis kering,351.0,1.2,12.2,72.9,Carbs
+Kacang uci kering,358.0,2.4,23.4,60.6,Carbs
+Kacang urei kering,354.0,1.8,12.8,69.3,Carbs
+Kadada katembe,110.0,6.9,4.5,7.1,Lunch
+Kaholeo masakan,413.0,19.8,28.7,29.8,Lunch
+Kakap,92.0,0.7,20.0,0.0,Lunch
+Kalakai,66.0,6.8,2.8,3.4,Lunch
+Kalio jeroan masakan,163.0,9.0,16.5,4.1,Lunch
+Kalio kikil (tunjang) masakan,122.0,5.7,13.8,3.9,Lunch
+Kalio otak masakan,157.0,8.8,8.1,11.4,Lunch
+Kalio telur masakan,193.0,12.4,10.6,9.7,Lunch/Dinner
+Kambing daging segar,149.0,9.2,16.6,0.0,Lunch
+Kambose,164.0,2.4,3.0,32.6,Lunch
+Kangkung,29.0,0.3,3.0,5.4,Lunch
+Kangkung kukus,30.0,0.7,3.2,4.7,Lunch
+Kangkung rebus,22.0,0.6,2.5,3.1,Lunch
+Kangkung tondano,43.0,0.2,1.8,8.4,Lunch
+Kangkung tumis,52.0,3.6,1.8,3.0,Lunch/Dinner
+Kaparende sayur,38.0,2.0,2.4,2.6,Lunch/Dinner
+Kapri Muda,42.0,0.2,3.3,9.6,Lunch
+Kapurung,41.0,0.3,2.0,7.8,Lunch
+Kapusa,158.0,3.2,4.4,27.8,Lunch
+Karawila,25.0,0.2,2.3,3.5,Lunch
+Karedok ,146.7,5.9,5.9,19.7,Lunch/Dinner
+Karedok sayur,92.0,3.3,2.2,14.1,Lunch/Dinner
+Karoket ,292.0,11.2,11.2,2.8,Snack
+Katak,73.0,0.3,16.4,0.0,Lunch
+Katul Beras,275.0,14.8,12.6,54.6,Carbs
+Katul Jagung,356.0,8.5,9.0,64.5,Carbs
+Kawista segar,120.0,2.5,3.5,20.8,Lunch
+Kecap,46.0,1.3,5.7,9.0,Lunch
+Kecimpring singkong goreng,464.0,18.6,1.2,73.0,Carbs
+Kecipir biji,405.0,17.0,32.8,36.5,Lunch
+Kecipir buah muda,35.0,0.2,2.9,0.8,Lunch
+Kecipir muda segar,32.0,0.2,2.9,5.8,Lunch
+Kecombrang segar,34.0,1.0,0.9,6.7,Lunch
+Kedondong segar ,47.0,0.2,0.5,10.4,Lunch
+Keju,326.0,20.3,22.8,13.1,Lunch
+Keju Kacang Tanah,590.0,49.0,27.0,20.9,Carbs
+Kelapa hutan kering,623.0,52.1,2.0,36.5,Lunch
+Kelapa Muda air,17.0,0.1,0.2,3.8,Lunch
+Kelapa Muda daging,68.0,0.9,1.0,14.0,Lunch
+Kelapa Setengah Tua daging,180.0,15.0,4.0,10.0,Lunch
+Kelapa Tua daging,359.0,34.7,3.4,14.0,Lunch
+Kelepon ,214.0,5.4,5.4,40.2,Snack
+Kelewih,111.0,0.3,1.5,27.2,Lunch
+Kelinci daging segar,142.0,7.8,16.9,0.0,Lunch
+Kemang,48.0,0.2,1.0,11.9,Lunch
+Kembang tahu,380.0,13.8,48.9,23.3,Lunch/Dinner
+Kembang Turi,44.0,0.6,1.8,9.6,Snack
+Kemiri,636.0,63.0,19.0,8.0,Lunch/Dinner
+Kenari,657.0,66.0,15.0,13.0,Lunch
+Kenari banda kering,616.0,56.2,13.9,13.7,Lunch
+Kentang,83.0,0.1,2.0,19.1,Carbs
+Kentang Hitam,142.0,0.4,0.9,33.7,Carbs
+Keong,64.0,1.0,12.0,2.0,Lunch
+Kepala Susu (Krim),204.0,20.0,2.6,4.0,Drink
+Kepiting,151.0,3.8,13.8,14.1,Lunch
+Kerang,59.0,1.1,18.0,3.6,Lunch
+Kerang asap mentah,393.0,13.3,38.9,29.4,Lunch
+Kerang dendeng mentah,357.0,10.0,41.1,25.6,Lunch
+Kerbau daging segar,79.0,0.5,18.7,0.0,Lunch
+Keremes,475.0,25.5,1.6,64.4,Drink
+Keribang ubi segar,137.0,1.1,1.3,29.8,Carbs
+Keripik bayam,586.0,40.6,4.9,50.2,Lunch/Dinner
+Keripik gadung,446.0,14.5,2.8,76.0,Snack
+Keripik kentang,448.0,18.8,2.7,67.1,Carbs
+Keripik lampung,485.0,22.2,1.7,69.7,Snack
+Keripik oncom,598.0,43.8,8.3,42.6,Snack
+Keripik singkong,478.0,20.7,0.9,72.0,Carbs
+Keripik singkong berbumbu,481.0,19.7,2.2,73.6,Carbs
+Keripik tempe,581.0,40.6,12.1,41.7,Lunch/Dinner
+Keripik tempe abadi murni,542.0,42.4,40.3,11.6,Lunch/Dinner
+Keripik tempe abadi sedang,510.0,27.9,12.3,52.4,Lunch/Dinner
+Keripik tempe abadi telur,529.0,31.7,20.8,40.2,Lunch/Dinner
+Keripik ubi,486.0,23.9,0.2,67.6,Carbs
+Kerokot segar,26.0,0.4,1.7,3.8,Lunch
+Kerupuk Aci,350.0,0.2,0.5,85.9,Snack
+Kerupuk cumi goreng,444.0,14.6,6.9,71.3,Lunch/Dinner
+Kerupuk Ikan berpati,342.0,0.4,16.0,65.6,Lunch/Dinner
+Kerupuk kemplang  (ikan) mentah,325.0,0.4,1.8,78.5,Lunch/Dinner
+Kerupuk kemplang goreng,504.0,28.1,5.6,57.1,Snack
+Kerupuk kemplang panggang,356.0,1.1,9.7,76.9,Snack
+Kerupuk Kulit kerbau,422.0,4.0,83.0,0.0,Snack
+Kerupuk Melinjo mentah,345.0,1.5,12.0,71.5,Snack
+Kerupuk Melinjo tebal goreng asin,431.0,16.2,11.1,63.0,Snack
+Kerupuk Melinjo tebal goreng manis,439.0,16.4,10.0,65.7,Snack
+Kerupuk Melinjo tipis goreng,485.0,24.5,11.5,59.1,Snack
+Kerupuk mie kuning goreng,476.0,21.1,0.1,71.3,Carbs
+Kerupuk Sayong ,46.7,17.3,17.3,81.3,Snack
+Kerupuk Udang ,340.0,30.0,30.0,52.0,Snack
+Kerupuk Udang berpati,359.0,68.2,17.2,332.0,Snack
+Kerupuk udang goreng,477.0,20.5,4.7,68.5,Snack
+Kerupuk urat,588.0,40.9,53.7,1.2,Snack
+Kesemek,78.0,0.4,0.8,20.0,Drink
+Ketan hitam matang,181.0,1.2,4.0,37.3,Carbs
+Ketan putih matang,163.0,0.4,3.0,35.7,Carbs
+Ketapang ,340.0,11.0,11.0,54.0,Lunch
+Ketela Pohon Kuning,157.0,0.3,0.8,37.9,Snack
+Ketela singkong segar,154.0,0.3,1.0,36.8,Carbs
+Ketela pohon/singkong kukus,153.0,0.3,1.2,36.4,Carbs
+Ketimun,12.0,0.1,0.7,2.7,Lunch
+Ketimun madura segar,9.0,0.1,0.5,1.9,Lunch
+Ketoprak,153.0,7.7,7.9,13.0,Lunch
+Ketumbar,404.0,16.1,14.1,54.2,Snack
+Ketupat ketan,212.0,4.6,4.0,38.6,Carbs
+Ketupat Tahu ,109.6,2.6,2.6,18.6,Lunch/Dinner
+Kluwek,310.0,24.0,10.0,13.5,Lunch
+Kodok segar,73.0,0.3,16.4,0.0,Lunch
+Kokosan,86.0,0.2,1.6,13.0,Lunch
+Komak polong segar,99.0,0.1,3.3,21.2,Lunch
+Kool Kembang,25.0,0.2,2.4,4.9,Snack
+Kool Merah kool putih,24.0,0.2,1.4,5.3,Lunch
+Kopi bagian yang larut,352.0,1.3,17.4,69.0,Drink
+Kopi bubuk instant,129.0,0.5,12.3,35.0,Drink
+Koro andong kering,356.0,4.1,20.5,61.6,Lunch
+Koro Benguk biji,332.0,3.0,24.0,55.0,Lunch
+Koro Benguk tempe,141.0,1.3,10.2,23.2,Lunch/Dinner
+Koro Kerupuk biji,125.0,0.7,8.3,22.1,Snack
+Koro Loke biji,33.0,0.2,2.7,7.9,Lunch
+Koro Roway biji,344.0,2.1,12.5,69.4,Lunch
+Koro Wedus biji,338.0,1.5,22.2,61.0,Lunch
+Koro Wedus buah muda,38.0,0.3,3.0,7.9,Lunch
+Koro wedus polong,46.0,0.3,3.0,7.9,Lunch
+Kotiu hinela tawang nggole,46.0,1.5,2.2,6.0,Lunch
+Koya,366.0,4.3,4.2,77.5,Lunch
+Koya mirasa,370.0,1.0,8.0,82.2,Lunch/Dinner
+Kranji segar,315.0,1.4,2.1,73.5,Lunch
+Kripik Tempe Goreng ,542.0,42.4,40.3,11.5,Lunch/Dinner
+Krokot,21.0,0.4,1.7,3.8,Lunch
+Kucai,45.0,0.3,2.2,10.3,Lunch
+Kucai Muda (Lokio),42.0,0.6,3.8,7.8,Lunch
+Kuda daging segar,113.0,4.1,18.1,0.9,Lunch
+Kue ali,440.0,18.5,3.8,64.5,Breakfast
+Kue Apem ,186.7,1.6,1.6,39.6,Breakfast
+Kue bangket,338.0,1.2,1.5,80.3,Breakfast
+Kue Bugis ,240.0,4.0,1.0,54.0,Breakfast
+Kue jahe,425.0,8.8,1.6,84.6,Breakfast
+Kue kelapa,591.0,42.1,5.6,47.5,Breakfast
+Kue Koya ,366.0,4.3,4.2,7.9,Breakfast
+Kue lumpur,291.0,11.1,3.6,44.1,Breakfast
+Kue mangkok ,182.0,1.0,1.0,40.4,Breakfast
+Kue Pacar Cina ,126.7,0.7,0.7,57.3,Breakfast
+Kue Pia ,296.0,1.4,1.4,66.4,Breakfast
+Kue putu cangkir,304.0,7.0,5.3,54.9,Breakfast
+Kue putu singkong,217.0,0.5,1.2,53.2,Carbs
+Kue Satu ,393.3,2.7,2.7,79.3,Breakfast
+Kue Semprong ,380.0,1.0,1.0,92.0,Breakfast
+Kue sus,221.0,10.2,7.5,24.8,Breakfast
+Kue Talam ,180.0,5.0,5.0,32.0,Breakfast
+Kue Tambang ,512.0,26.0,26.0,60.4,Breakfast
+Kue thipan,247.0,4.2,2.9,49.5,Breakfast
+Kulit melinjo,111.0,1.1,4.5,20.7,Lunch
+Kundur segar,22.0,0.2,0.4,4.7,Lunch
+Kunyit,63.0,2.7,2.0,9.1,Lunch
+Kura-kura,83.0,0.2,19.1,0.0,Lunch
+Kwaci,515.0,42.1,30.6,13.8,Lunch
+Kwark (Quark),242.0,17.0,19.0,3.0,Lunch
+Labu Air,17.0,0.2,0.6,3.8,Lunch
+Labu kuning segar,51.0,0.5,1.7,10.0,Lunch
+Labu Siam,26.0,0.1,0.6,6.7,Lunch
+Labu waluh segar,32.0,0.1,1.1,6.6,Lunch
+Laksa ,166.3,3.9,2.7,29.5,Lunch
+Lamtoro (pete cina) biji muda,85.0,0.3,5.7,15.4,Lunch
+Lamtoro biji tua,148.0,0.5,10.6,26.2,Lunch
+Lamtoro tempe,142.0,2.5,11.0,20.4,Lunch/Dinner
+Lamtoro var. gung tanpa kulit,367.0,5.4,46.4,32.5,Lunch
+Lamtoro var. lokal dengan kulit,336.0,1.2,23.8,59.7,Lunch
+Langsat,56.0,0.2,0.9,14.3,Lunch
+Lantar segar,34.0,0.3,2.2,5.5,Lunch
+Lanting getuk,422.0,10.8,0.9,80.4,Snack
+Lapis legit,389.0,15.7,6.6,55.5,Snack
+Lawar babi masakan,174.0,10.0,17.0,3.0,Lunch
+Lawar penyu masakan,141.0,1.5,23.0,7.6,Lunch
+Lawara jangang masakan,159.0,10.9,5.0,10.1,Lunch
+Lawara penjah masakan,207.0,15.4,7.4,9.6,Lunch
+Ledre pisang,405.0,5.1,4.8,84.9,Snack
+Lema/ Rebung asam,15.0,0.4,1.0,1.9,Lunch
+Lemak Babi,902.0,100.0,0.0,0.0,Lunch
+Lemak Babi (Bacon),630.0,65.0,9.1,1.1,Lunch
+Lemak ikan,372.0,29.4,12.0,14.4,Lunch/Dinner
+Lemak Kerbau,818.0,90.0,1.5,0.0,Lunch
+Lemon segar,34.0,0.8,0.5,6.2,Lunch
+Lemon Squasih,36.0,0.0,0.0,10.0,Lunch
+Lemonade,30.0,0.0,0.0,8.0,Lunch
+Lemper ,221.3,3.6,3.8,43.4,Snack
+Lempog durian,320.0,5.7,3.5,63.7,Lunch
+Lepok/Ubi rumput,181.0,1.2,2.8,39.8,Carbs
+Leunca buah,33.0,0.1,1.9,7.4,Lunch
+Leupeut Ketan ,240.0,0.5,7.8,51.3,Carbs
+Leverwost (sosis hati),387.0,22.0,16.0,3.0,Lunch
+Lilin bungkus gedi,79.0,5.2,2.3,5.8,Lunch
+Lobak,19.0,0.1,0.9,4.2,Lunch
+Lokan segar,217.0,1.7,11.0,5.1,Lunch
+Lontar segar,27.0,0.2,0.4,6.0,Lunch
+Lopis ,163.3,2.2,2.8,33.0,Lunch
+Lumai/Leunca segar,38.0,0.3,1.1,7.6,Lunch
+Lupis ketan,164.0,2.1,1.8,34.5,Carbs
+Madu,294.0,0.0,0.3,79.5,Lunch
+Maizena tepung,341.0,0.0,0.3,85.0,Carbs
+Makaroni,363.0,0.4,8.7,78.7,Carbs
+Mangga benggala segar,63.0,0.4,2.4,12.4,Lunch
+Mangga Gedong,44.0,0.2,0.7,11.2,Lunch
+Mangga Golek,63.0,0.2,0.5,16.7,Lunch
+Mangga Harum Manis,46.0,0.2,0.4,11.9,Lunch
+Mangga Indramayu,72.0,0.2,0.8,18.7,Lunch
+Mangga Kopek,56.0,0.2,0.4,14.6,Lunch
+Mangga kwini segar,86.0,0.5,0.7,19.8,Lunch
+Mangga manalagi segar,133.0,0.1,1.0,32.1,Lunch
+Mangga Muda,59.0,0.4,0.5,15.1,Lunch
+Mangga segar,52.0,0.0,0.7,12.3,Lunch
+Manggis,63.0,0.6,0.6,15.6,Lunch
+Margarin,720.0,81.0,0.6,0.4,Lunch
+Markisa segar,144.0,1.2,3.5,29.8,Lunch
+Markisa squash,217.0,1.0,2.5,49.6,Lunch
+Markisa squash BD,104.0,0.5,1.2,23.7,Lunch
+Martabak  manis,265.3,5.5,4.7,49.3,Breakfast
+Martabak india,153.0,4.2,4.5,24.3,Breakfast
+Martabak mesir,278.0,8.6,5.1,45.0,Drink
+Martabak Telur ,200.0,5.1,8.9,29.5,Breakfast
+Masekat,369.0,7.0,2.1,74.1,Lunch
+Matoa segar,90.0,0.1,1.2,21.1,Lunch
+Melase,276.0,0.1,0.0,71.0,Lunch
+Melinjo,66.0,0.7,5.0,13.3,Lunch
+Melon segar,37.0,0.4,0.6,7.8,Lunch
+Menjangan daging dendeng mentah,322.0,2.0,55.8,22.7,Lunch
+Mentega,725.0,81.6,0.5,1.4,Lunch
+Menteng,65.0,0.2,1.7,16.1,Lunch
+Merica,359.0,6.8,11.5,64.4,Lunch
+Mi basah,88.0,3.3,0.6,14.0,Lunch/Dinner
+Mi golosor,71.0,0.8,0.2,15.9,Lunch/Dinner
+Mi kering,339.0,1.7,10.0,6.3,Lunch/Dinner
+Mie aceh rebus,113.0,3.2,3.0,18.1,Carbs
+Mie ayam,102.0,3.9,6.2,10.5,Carbs
+Mie bakso,114.0,3.0,5.3,16.4,Carbs
+Mie basah,86.0,3.3,0.6,14.0,Carbs
+Mie Bendo,353.0,0.0,0.3,88.0,Carbs
+Mie celon,102.0,2.1,3.0,17.8,Carbs
+Mie Goreng ,468.0,20.4,7.6,62.4,Carbs
+Mie kering,337.0,11.8,7.9,50.0,Carbs
+Mie pangsit basah,105.0,4.9,5.9,9.4,Carbs
+Mie Sagu,190.0,0.4,0.2,46.5,Carbs
+Minyak Hati Hiu (Eulamia),902.0,100.0,0.0,0.0,Lunch/Dinner
+Minyak Ikan,902.0,100.0,0.0,0.0,Lunch/Dinner
+Minyak Kacang Tanah,902.0,100.0,0.0,0.0,Carbs
+Minyak kedelai,883.0,99.9,0.0,0.0,Lunch/Dinner
+Minyak Kelapa,870.0,98.0,1.0,0.0,Lunch/Dinner
+Minyak Kelapa Sawit,902.0,100.0,0.0,0.0,Lunch/Dinner
+Minyak Wijen,902.0,100.0,0.0,0.0,Lunch/Dinner
+Minyak Zaitun,884.0,100.0,0.0,0.0,Lunch/Dinner
+Misoa,345.0,2.2,8.5,78.0,Lunch/Dinner
+Misro ,218.0,16.0,0.8,50.2,Lunch/Dinner
+Moon tahu,128.0,10.0,8.0,1.3,Lunch/Dinner
+Mostarda metan -sawi,33.0,0.5,2.3,4.7,Lunch
+Mujahir acar kuning masakan,330.0,23.4,17.8,12.1,Lunch
+Naan maran sapi masakan,478.0,33.9,38.3,5.1,Lunch
+Nanas,52.0,0.2,0.4,13.7,Lunch
+Nanas palembang segar,58.0,0.2,0.7,13.3,Lunch
+Nangka biji,165.0,0.1,4.2,36.7,Lunch
+Nangka masak di pohon,106.0,0.3,1.2,27.6,Lunch
+Nangka Muda,51.0,0.4,2.0,11.3,Lunch
+Nasi,180.0,0.3,3.0,39.8,Carbs
+Nasi beras merah,149.0,0.4,2.8,32.5,Carbs
+Nasi gemuk,192.0,8.8,3.8,24.4,Carbs
+Nasi Goreng ,276.0,3.2,3.2,30.2,Carbs
+Nasi gurih,190.0,7.5,4.7,26.0,Carbs
+Nasi jagung,357.0,0.5,8.8,79.5,Carbs
+Nasi minyak,207.0,5.0,3.5,37.1,Carbs
+Nasi rames,155.0,4.2,10.3,19.1,Drink
+Nasi tim,120.0,0.4,2.4,26.0,Carbs
+Nasi Uduk ,253.3,21.0,4.3,11.7,Carbs
+Nasu likku masakan,196.0,8.3,14.5,15.9,Lunch
+Noga Kacang Tanah ,600.0,41.7,14.0,42.0,Carbs
+Nopia spesial,387.0,7.6,5.3,74.3,Drink
+Olah-olah,9.0,6.0,2.1,7.1,Lunch
+Oncom,187.0,6.0,13.0,22.6,Lunch
+Oncom ampas kacang hijau,376.0,6.0,14.9,65.7,Carbs
+Oncom Goreng ,363.3,19.3,19.3,40.3,Lunch
+Oncom Hitam Goreng ,284.0,14.4,12.0,13.6,Lunch
+Oncom Hitam Goreng bertepung ,306.7,18.0,9.0,27.0,Carbs
+Oncom kacang hijau + singkong,351.0,5.3,11.0,65.9,Carbs
+Oncom Kacang Tanah pepes,132.0,3.8,12.7,13.7,Drink
+Oncom Kedele,187.0,6.0,13.0,22.6,Lunch
+Oncom Merah Goreng ,368.0,32.0,6.8,13.2,Lunch
+Oncom Merah Goreng bertepung ,320.0,18.7,7.3,31.0,Carbs
+Oncom Merah Sayur (tumis) ,40.0,2.0,2.0,3.0,Lunch/Dinner
+Oncom pepes,76.0,1.8,5.2,10.6,Drink
+Onde-onde ,288.6,8.9,8.3,44.3,Snack
+Ongol-ongol ,115.0,6.0,1.5,14.0,Lunch
+Ongol-ongol sagu,111.0,2.7,0.3,21.2,Carbs
+Opak Singkong ,940.0,42.0,36.0,104.0,Carbs
+Oramu ninahu ndawa olaho masakan,117.0,5.0,13.7,4.3,Lunch
+Otak,125.0,8.6,10.4,0.8,Lunch
+Oyek,351.0,0.9,0.9,84.9,Lunch
+Oyek (dari singkong),342.0,0.1,2.3,83.1,Carbs
+Paku hinela wulelenggapaya,77.0,4.6,3.5,5.4,Lunch
+Pala biji,494.0,36.4,7.5,40.1,Lunch
+Pala daging,42.0,0.2,0.3,10.9,Lunch
+Paniki masak santan masakan,460.0,35.2,28.5,7.2,Lunch
+Papais ,133.8,1.6,3.0,27.0,Lunch
+Papeda,61.0,0.1,0.2,14.9,Lunch
+Parede baleh masakan,87.0,2.5,10.5,5.5,Lunch
+Paria (Pare),29.0,0.3,1.1,6.6,Lunch
+Paria Putih kukus,16.0,0.2,0.8,3.4,Lunch
+Paria putih segar,19.0,0.4,1.0,3.6,Lunch
+Pastel,307.0,13.3,4.5,42.4,Lunch
+Pati Singkong (tapioka),362.0,0.3,0.5,86.9,Carbs
+Pe-Cay,23.0,0.3,1.8,4.5,Lunch
+Peda Ikan Banjar,156.0,4.0,28.0,0.0,Lunch/Dinner
+Pelecing kangkung,75.0,2.8,2.5,10.0,Lunch
+Pelepah manuk masakan,219.0,13.6,19.7,4.4,Lunch
+Pempek adaan,162.0,3.0,4.9,27.8,Lunch
+Pempek belida,156.0,1.4,4.2,31.6,Lunch
+Pempek kapal selam,152.0,2.3,4.5,28.2,Lunch
+Pempek kelesan,211.0,6.1,12.3,26.6,Drink
+Pempek kulit,243.0,7.3,5.2,39.1,Lunch
+Pempek tenggiri,173.0,1.2,7.2,33.4,Lunch
+Pencok lele masakan,372.0,36.3,7.8,3.5,Lunch
+Penyu serapah masakan,174.0,12.2,13.1,2.2,Lunch
+Pepare ular segar,19.0,0.1,0.6,3.9,Lunch
+Pepaya lodeh,275.0,11.6,11.6,30.2,Lunch/Dinner
+Pepaya Muda,26.0,0.1,2.1,4.9,Lunch
+Pepaya segar,46.0,12.0,0.5,12.2,Lunch
+Pepea oncom ampas tahu,76.0,1.8,5.2,10.6,Lunch/Dinner
+Permen ,400.0,0.0,0.0,95.0,Lunch
+Pete Segar,142.0,2.0,10.4,22.0,Lunch
+Peterseli,50.0,1.0,3.7,9.0,Lunch
+Petis Ikan,161.0,0.2,20.0,24.0,Lunch/Dinner
+Petis Udang,220.0,0.1,15.0,40.0,Lunch
+Petis udang kering,345.0,1.4,23.8,59.3,Lunch
+Petis udang pasta,220.0,0.9,15.0,38.0,Carbs
+Pilus ,514.0,27.8,1.0,647.0,Lunch
+Pinda masakan,107.0,0.6,15.9,0.4,Lunch
+Pindang Ikan Banjar,157.0,4.2,28.0,0.0,Lunch/Dinner
+Pindang Ikan Benggol,170.0,4.2,31.0,0.0,Lunch/Dinner
+Pindang Ikan Layang,153.0,2.8,30.0,0.0,Lunch/Dinner
+Pindang Ikan Selar Kecil,142.0,3.0,27.0,0.0,Lunch/Dinner
+Pindang kenari masakan,124.0,9.6,9.5,0.0,Lunch
+Pisang Ambon,99.0,0.2,1.2,25.8,Snack
+Pisang angleng (pisang ampyang) segar,68.0,0.2,1.3,17.2,Snack
+Pisang ayam segar,120.0,0.2,1.1,26.8,Lunch/Dinner
+Pisang gapi segar ,127.0,0.3,2.1,31.1,Snack
+Pisang Goreng ,220.0,2.3,2.3,6.3,Snack
+Pisang goroho segar,115.0,0.2,1.9,27.9,Snack
+Pisang hijau segar,117.0,0.3,2.0,28.9,Snack
+Pisang kayu segar,100.0,0.5,1.4,23.6,Snack
+Pisang kepok segar,109.0,0.5,0.8,26.3,Snack
+Pisang ketip segar,145.0,0.3,1.1,34.5,Snack
+Pisang kidang segar,96.0,0.2,1.0,22.5,Snack
+Pisang Lampung,99.0,0.2,1.3,25.6,Snack
+Pisang Mas,127.0,0.2,1.4,33.6,Snack
+Pisang mas bali,127.0,0.2,1.4,31.8,Snack
+Pisang Oli,134.0,0.5,1.1,35.5,Snack
+Pisang Raja,120.0,0.2,1.2,31.8,Snack
+Pisang Raja Sere (Susu),118.0,0.2,1.2,31.1,Drink
+Pisang rotan segar,98.0,1.2,1.3,20.5,Snack
+Pisang Siam goreng,625.0,0.0,1.0,8.1,Snack
+Pisang talas segar,113.0,0.2,1.2,26.7,Carbs
+Prey (bawang daun),45.0,0.3,2.2,10.3,Lunch
+Pucuk lumai/daun leunca segar,33.0,0.4,4.5,2.8,Lunch
+Pulut,216.0,3.1,2.6,44.4,Lunch
+Punai daging goreng,224.0,11.3,26.2,4.4,Lunch
+Pundut nasi,104.0,4.1,1.9,15.1,Carbs
+Purundawa,25.0,0.5,1.5,3.6,Lunch
+Purut segar,76.0,1.1,4.1,15.2,Lunch
+Putri malu segar,76.0,0.3,3.6,14.6,Lunch
+Putri selat,163.0,6.5,2.2,23.8,Lunch
+Putu Mayang ,200.0,2.4,1.0,43.8,Lunch
+Ragi,136.0,2.4,43.0,3.0,Lunch
+Rajungan segar,76.0,2.0,12.1,2.4,Lunch
+Rambutan,69.0,0.1,0.9,18.1,Lunch
+Rambutan Aceh,11.0,0.0,0.0,2.7,Lunch
+Rambutan binjai segar,76.0,0.2,0.5,18.0,Lunch
+Rambutan sinyonya,4.0,0.0,0.0,0.9,Lunch
+Rarawuan ,295.0,8.5,7.3,47.5,Lunch
+Rasbi (Beras Ubi),394.0,8.8,2.2,76.6,Carbs
+Rasi (Beras Singkong),350.0,0.4,0.9,85.7,Carbs
+Rawon masakan,60.0,2.5,5.4,4.0,Lunch/Dinner
+Rebon (udang kecil segar),81.0,1.2,16.2,0.7,Lunch
+Rebon kering,299.0,3.6,29.4,3.2,Lunch
+Rebon udang kecil segar,81.0,1.2,16.2,0.7,Lunch
+Rebung,27.0,0.3,0.6,5.2,Lunch
+Rebung laut mentah,320.0,4.2,7.2,63.3,Lunch
+Rempeyek kacang tolo,451.0,20.2,11.2,59.7,Carbs
+Rempeyek kacang uci,497.0,27.6,17.0,50.8,Carbs
+Rendang sapi masakan,193.0,7.9,22.6,7.8,Lunch/Dinner
+Renggi goreng,471.0,21.8,4.7,64.1,Lunch
+Rimbang segar,75.0,0.6,1.6,15.8,Lunch
+Risoles ,335.0,3.5,5.3,70.5,Drink
+Roti boong,341.0,16.2,5.5,43.3,Carbs
+Roti Gambang ,350.0,2.0,7.5,75.5,Carbs
+Roti Putih,248.0,1.2,8.0,50.0,Carbs
+Roti warna sawo matang,249.0,1.5,7.9,49.7,Carbs
+Rujak cingur,153.0,8.4,11.3,8.0,Lunch
+Rumput laut,41.0,0.3,1.4,8.1,Lunch
+Rusa daging dendeng mentah,536.0,41.5,40.5,0.0,Lunch
+Rusip,110.0,2.0,11.5,11.7,Lunch
+RW anjing masakan,198.0,10.7,24.6,0.9,Lunch
+Saga biji tanpa kulit,449.0,25.5,30.6,31.9,Lunch
+Sagu Ambon ,338.0,0.3,0.6,83.1,Carbs
+Sagu aren kering,355.0,1.1,0.6,85.6,Carbs
+Sagu aren segar,231.0,0.2,0.6,56.6,Carbs
+Sagu forno,291.0,4.0,0.5,63.4,Carbs
+Sagu kasbi segar,230.0,0.2,0.6,56.5,Carbs
+Sagu Lemak (Kue Sagon),452.0,14.8,2.8,76.8,Carbs
+Sagu lempeng,347.0,0.3,0.9,85.2,Carbs
+Sagu Rendang,364.0,0.2,0.1,90.5,Carbs
+Sagu singkong kering,362.0,0.3,0.5,86.9,Carbs
+Sagu sinole,354.0,8.3,0.8,68.9,Carbs
+Salak bali segar,57.0,0.1,0.5,13.6,Lunch
+Salak medan segar,55.0,0.2,0.4,12.8,Lunch
+Salak pondoh segar,87.0,0.4,0.8,20.1,Lunch
+Sale pisang siam,281.0,0.7,2.4,66.1,Snack
+Santan (dengan air),122.0,10.0,2.0,7.6,Lunch
+Santan (kelapa saja),324.0,34.3,4.2,55.6,Lunch
+Santan murni,324.0,34.3,4.2,5.6,Lunch
+Saos Tomat,98.0,0.4,2.0,24.5,Lunch
+Sapi abon,212.0,10.6,18.0,59.3,Lunch
+Sapi babat segar,108.0,4.2,17.6,0.0,Lunch
+Sapi daging asap,182.0,6.0,32.0,0.0,Lunch
+Sapi daging dendeng mentah,301.0,9.0,55.0,0.0,Lunch
+Sapi daging gemuk segar,273.0,22.0,17.5,0.0,Lunch
+Sapi daging kornet,289.0,25.0,16.0,0.0,Lunch
+Sapi daging kurus segar,174.0,10.0,19.6,0.0,Lunch
+Sapi daging lemak sedang segar,201.0,14.0,18.8,0.0,Lunch
+Sapi daging sosis (Worst),448.0,42.3,14.5,2.3,Lunch
+Sapi daleman segar,183.0,14.4,12.0,1.4,Lunch
+Sapi dideh/darah,98.0,1.1,21.9,0.0,Lunch
+Sapi ginjal segar,137.0,8.1,15.0,0.9,Lunch
+Sapi hati sosis (liverworst),274.0,22.0,16.0,3.0,Lunch
+Sapi keleponan segar,84.0,4.6,10.5,0.2,Snack
+Sapi liver segar,132.0,3.2,19.7,6.0,Lunch
+Sapi otak segar,123.0,8.6,10.4,0.8,Lunch
+Sapi paru dendeng mentah,360.0,6.0,57.3,19.2,Lunch
+Sapi paru goreng,268.0,12.7,23.9,14.5,Lunch
+Sapi usus segar,126.0,7.2,14.0,1.5,Lunch
+Sarang Burung,281.0,0.3,37.5,32.1,Lunch
+Sardines dalam kaleng,338.0,27.0,21.1,1.0,Drink
+Sari Kedelai bubuk,344.0,20.0,30.0,43.0,Drink
+Sarimuka,166.0,2.8,2.3,32.9,Lunch
+Sate Bandeng,283.0,16.8,12.1,20.9,Lunch
+Sate Kulit ,110.0,0.5,15.5,11.5,Lunch
+Sate penyu masakan,179.0,3.5,22.5,13.3,Lunch
+Sate pusut masakan,274.0,18.6,12.9,13.6,Lunch
+Sate Usus ,126.7,7.3,14.0,1.3,Lunch
+Sawi,22.0,0.3,2.3,4.0,Lunch
+Sawi putih / pecai segar,9.0,0.1,1.0,1.7,Lunch
+Sawi taiwan segar,30.0,0.5,1.9,4.4,Lunch
+Sawi tanah segar,19.0,0.2,1.3,2.9,Lunch
+Sawo,92.0,1.1,0.5,22.4,Lunch
+Sawo duren segar,64.0,3.1,1.0,8.0,Lunch
+Sawo kecik segar,111.0,2.3,0.9,21.6,Lunch
+Sawo Manila segar,92.0,1.1,0.5,22.4,Lunch
+Sayur asem,29.0,0.6,0.7,5.0,Lunch/Dinner
+Sayur bunga pepaya,49.0,0.3,1.7,9.8,Lunch/Dinner
+Sayur garu,178.0,13.9,2.6,10.6,Lunch/Dinner
+Sayur kohu-kohu,133.0,6.6,7.3,11.2,Lunch/Dinner
+Sayur lebui,64.0,0.6,2.1,12.5,Lunch/Dinner
+Sayur lilin-terubuk,36.0,0.7,2.7,4.8,Lunch/Dinner
+Sayur ndusuk,49.0,2.5,3.1,3.6,Lunch/Dinner
+Sayur sop,27.0,2.0,1.3,1.0,Lunch/Dinner
+Sayur umbut kelapa,67.0,2.9,5.2,5.1,Lunch/Dinner
+Sayur umbut rotan,57.0,2.6,5.4,3.1,Lunch/Dinner
+Selada,15.0,0.2,1.2,2.9,Lunch
+Selada Air,17.0,0.3,1.7,3.0,Lunch
+Selada Air rebus,19.0,0.2,2.7,2.9,Lunch
+Seledri,20.0,0.1,1.0,4.6,Lunch
+Semangka,28.0,0.2,0.5,6.9,Lunch
+Semur Jengkol ,192.5,6.0,4.5,30.3,Lunch
+Sente,64.0,0.3,0.6,14.8,Lunch
+Sente talas segar,353.0,0.2,0.7,84.7,Carbs
+Sepi masakan,88.0,1.6,7.9,10.6,Lunch
+Serbuk Coklat,298.0,23.8,8.0,48.9,Lunch
+Serimping talas kebumen,478.0,21.2,2.5,69.2,Carbs
+Setrup sirup,213.0,0.0,0.0,55.0,Drink
+Shabu-shabu,88.0,8.0,3.2,0.8,Lunch
+Sie reuboh masakan,474.0,42.5,11.2,11.7,Lunch
+Singkah (rotan muda),81.0,4.5,5.1,5.1,Lunch
+Singkong Goreng ,285.0,18.0,1.0,28.0,Carbs
+Singkong kukus,146.0,0.3,1.2,34.7,Carbs
+Singkong tape,173.0,0.1,0.5,42.5,Carbs
+Siomay ,95.3,2.2,4.4,14.4,Lunch
+Sirsak,65.0,0.3,1.0,16.3,Lunch
+Sirup,213.0,0.0,0.0,55.0,Drink
+Sop buntut masakan,71.0,3.6,7.5,2.2,Lunch/Dinner
+Sop daging sapi masakan,49.0,0.5,5.8,5.3,Lunch/Dinner
+Sop kaki sapi masakan,68.0,1.9,9.0,3.7,Lunch/Dinner
+Sop kambing masakan,34.0,0.8,5.5,1.1,Lunch/Dinner
+Sop konro masakan,71.0,2.6,7.4,4.5,Lunch/Dinner
+Sop Kool,12.0,0.1,0.5,2.0,Lunch/Dinner
+Sop Kool dan Wortel,15.0,0.1,0.6,3.1,Lunch/Dinner
+Sop saudara masakan,89.0,5.0,7.2,3.9,Lunch/Dinner
+Soto bandung masakan,42.0,1.7,3.9,2.8,Lunch/Dinner
+Soto banjar masakan,110.0,9.5,2.9,3.2,Lunch/Dinner
+Soto betawi masakan,135.0,8.8,2.5,11.5,Lunch/Dinner
+Soto dengan Daging,127.5,9.4,2.6,8.3,Lunch/Dinner
+Soto jeroan masakan,92.0,4.3,11.8,1.4,Lunch/Dinner
+Soto kudus masakan,38.0,2.3,2.6,1.8,Lunch/Dinner
+Soto madura masakan,60.0,4.5,3.5,1.3,Lunch/Dinner
+Soto padang masakan,127.0,6.6,5.9,11.0,Lunch/Dinner
+Soto pekalongan masakan,94.0,6.8,3.0,5.1,Lunch/Dinner
+Soto pemalang masakan,75.0,5.2,3.6,3.5,Lunch/Dinner
+Soto sukaraja masakan,80.0,3.5,3.2,9.0,Lunch/Dinner
+Soto sulung masakan,86.0,8.5,2.3,0.0,Lunch/Dinner
+Soto tanpa Daging ,117.1,8.6,0.4,9.6,Lunch/Dinner
+Spaghetti,139.0,2.1,7.4,22.6,Lunch
+Srikaya,101.0,0.6,1.7,35.2,Lunch
+Sukiyaki masakan,75.0,0.4,5.6,12.2,Lunch
+Sukun muda segar,119.0,0.2,1.4,28.1,Carbs
+Sukun tua segar,126.0,0.2,1.6,24.5,Carbs
+Susu asam untuk bayi bubuk,418.0,9.0,19.0,65.5,Drink
+Susu bubuk,513.0,30.0,24.6,36.2,Drink
+Susu Kambing,64.0,2.3,4.3,6.6,Drink
+Susu Kedelai,41.0,2.5,3.5,5.0,Drink
+Susu Kental Manis,336.0,10.0,8.2,55.0,Drink
+Susu Kental Tak Manis,138.0,7.9,7.0,9.9,Drink
+Susu Kerbau,160.0,12.0,6.3,7.1,Drink
+Susu Sapi,61.0,3.5,3.2,4.3,Drink
+Susu Skim (tak berlemak),36.0,0.1,3.5,5.1,Drink
+Susu skim bubuk,359.0,1.0,35.6,52.0,Drink
+Susu skim segar,36.0,0.1,3.5,5.1,Drink
+Susupan,87.0,5.2,5.3,6.3,Drink
+Suweg kukus,90.0,0.1,1.5,21.9,Lunch
+Suweg mentah,69.0,0.1,1.0,15.7,Lunch
+Suweg talas segar,74.0,0.1,1.4,17.2,Carbs
+Suwir-suwir,347.0,0.9,0.5,84.2,Lunch
+Tahu,68.0,4.6,7.8,1.6,Lunch/Dinner
+Tahu goreng,115.0,8.5,9.7,2.5,Lunch/Dinner
+Tahu telur,328.0,19.9,12.6,24.6,Lunch/Dinner
+Takwa,148.0,8.5,13.8,4.0,Lunch
+Talas bogor kukus,120.0,0.3,1.5,28.2,Carbs
+Talas pontianak segar,163.0,0.5,2.3,36.4,Carbs
+Talas viqueque segar,115.0,0.5,1.8,25.9,Carbs
+Tales kukus,120.0,0.3,1.5,28.2,Drink
+Tales mentah,98.0,0.2,1.9,23.7,Drink
+Taoco,166.0,4.9,10.4,24.1,Lunch
+Taoge goreng,88.0,2.1,3.2,14.0,Lunch
+Taoge kacang kedelai segar,76.0,2.6,9.0,6.4,Carbs
+Taoge seduh,28.0,0.8,3.0,4.0,Lunch
+Taoge segar,34.0,1.2,3.7,4.3,Lunch
+Taokoa,104.0,6.8,12.9,1.2,Lunch
+Tapai beras,99.0,0.3,1.7,22.4,Carbs
+Tapai ketan hitam,166.0,1.0,3.8,34.4,Carbs
+Tapai ketan putih,172.0,0.5,3.0,37.5,Carbs
+Tapai singkong,169.0,0.3,1.4,40.2,Carbs
+Tauco cap DAS cake,358.0,4.3,7.5,70.4,Lunch
+Tauji cap singa,277.0,4.7,9.1,49.6,Lunch
+Tebu Terubuk,25.0,0.4,4.6,3.0,Lunch
+Tedong pallu basa masakan,83.0,3.4,10.4,2.8,Lunch
+Teh,132.0,0.7,19.5,67.8,Drink
+Teh hijau daun kering,300.0,4.8,28.3,53.6,Drink
+Teh melati daun kering,299.0,3.5,24.1,59.0,Drink
+Tekokak,34.0,0.1,2.0,7.9,Lunch
+Tekokak kering,294.0,1.7,8.3,72.6,Lunch
+Tekwan,53.0,0.9,1.9,9.4,Lunch
+Telur Ayam,162.0,11.5,12.8,0.7,Lunch/Dinner
+Telur Ayam bagian kuning,361.0,31.9,19.3,0.7,Lunch/Dinner
+Telur Ayam bagian putih,50.0,0.0,10.8,0.8,Lunch/Dinner
+Telur Ayam ceplok,383.0,32.9,15.1,8.3,Lunch/Dinner
+Telur Ayam dadar,251.0,19.4,16.3,1.4,Lunch/Dinner
+Telur ayam kampung ,179.0,13.3,13.6,4.4,Lunch/Dinner
+Telur bebek bagian kuning segar,386.0,35.0,17.0,0.8,Lunch/Dinner
+Telur Bebek bagian putih,54.0,0.0,11.0,0.8,Lunch/Dinner
+Telur bebek bagian putih segar,54.0,0.0,11.0,0.8,Lunch/Dinner
+Telur Bebek ceplok,320.0,30.5,15.1,0.9,Lunch/Dinner
+Telur Bebek dadar,301.0,23.7,20.0,0.0,Lunch/Dinner
+Telur bebek tambak segar,187.0,12.4,10.9,7.9,Lunch/Dinner
+Telur Bebek telur asin,195.0,13.6,13.6,1.4,Lunch/Dinner
+Telur burung puyuh segar,116.0,7.0,10.7,1.6,Lunch/Dinner
+Telur Penyu,144.0,10.2,12.0,0.0,Lunch/Dinner
+Telur Terubuk,425.0,28.0,31.0,10.0,Lunch/Dinner
+Tempe bongkrek,119.0,3.5,4.4,18.3,Lunch/Dinner
+Tempe Gembus,73.0,1.3,5.7,4.2,Lunch/Dinner
+Tempe gembus yogya,76.0,0.7,6.8,10.6,Lunch/Dinner
+Tempe Goreng ,328.0,23.2,18.4,12.8,Lunch/Dinner
+Tempe kacang babi,139.0,0.8,12.5,21.9,Carbs
+Tempe kacang belimbing,212.0,10.0,17.5,12.9,Carbs
+Tempe kedelai + jagung,143.0,5.5,12.0,11.4,Carbs
+Tempe kedelai murni goreng,350.0,26.6,24.5,10.4,Lunch/Dinner
+Tempe kedelai murni mentah,201.0,8.8,20.8,13.5,Lunch/Dinner
+Tempe koro benguk,141.0,1.3,10.2,23.2,Lunch/Dinner
+Tempe lamtoro var. gung dengan kulit,146.0,2.3,11.7,19.6,Lunch/Dinner
+Tempe lamtoro var. gung tanpa kulit,131.0,0.8,18.0,13.0,Lunch/Dinner
+Tempe pasar segar,150.0,7.7,14.0,9.1,Lunch/Dinner
+Tempe pasar goreng,336.0,28.0,20.0,7.8,Lunch/Dinner
+Tempe Sayur ,240.0,2.7,6.0,49.3,Lunch/Dinner
+Tempoya,110.0,1.3,1.7,21.9,Lunch
+Tempuyak,126.0,2.2,1.1,25.7,Lunch
+Tepung Arrowroot,355.0,0.2,0.7,85.2,Carbs
+Tepung Beras,364.0,0.5,7.0,80.0,Carbs
+Tepung beras mentah,353.0,0.5,7.0,80.0,Carbs
+Tepung Ganyong,353.0,1.7,0.8,83.6,Carbs
+Tepung Gaplek,363.0,0.5,1.1,88.2,Carbs
+Tepung Garut (arrowroot),355.0,0.2,0.7,85.2,Carbs
+Tepung Hunkwee,364.0,1.0,4.5,83.5,Carbs
+Tepung Ikan,316.0,6.5,60.1,22.4,Carbs
+Tepung Jagung Kuning,355.0,3.9,9.2,73.7,Carbs
+Tepung jagung putih,355.0,3.9,9.2,73.7,Carbs
+Tepung Jalejo,388.0,7.5,19.0,61.2,Carbs
+Tepung Kacang Kedelai,347.0,20.6,35.9,29.9,Carbs
+Tepung Kentang,347.0,0.1,0.3,85.6,Carbs
+Tepung Mocaf,350.0,0.6,1.2,85.0,Carbs
+Tepung Pisang,338.0,0.4,2.9,80.6,Carbs
+Tepung Sagu,353.0,0.2,0.7,84.7,Carbs
+Tepung Sente,326.0,0.4,4.0,76.7,Carbs
+Tepung singkong/ Tapioka,363.0,0.5,1.1,88.2,Carbs
+Tepung Sukun,353.0,0.5,2.9,84.4,Carbs
+Tepung Susu,509.0,30.0,24.6,36.2,Drink
+Tepung Susu Asam untuk bayi,418.0,9.0,19.0,65.5,Drink
+Tepung Susu Skim,362.0,1.0,35.6,52.0,Drink
+Tepung Tales Beneng,332.0,0.6,5.7,76.1,Drink
+Tepung Terigu,365.0,1.3,8.9,77.3,Carbs
+Tepung Ubi Ungu,354.0,0.6,2.8,84.4,Carbs
+Terasi,155.0,2.9,22.3,9.9,Lunch
+Terasi dobo,191.0,3.6,33.1,6.6,Lunch
+Terasi Merah,174.0,3.5,30.0,3.5,Lunch
+Terasi merah,174.0,3.5,30.0,5.6,Lunch
+Teri balado masakan,365.0,22.3,23.7,17.5,Lunch
+Teripang dendeng mentah,462.0,32.4,39.1,3.5,Lunch
+Terong,24.0,0.2,1.1,5.5,Lunch
+Terong + Oncom makanan,285.0,25.7,4.3,9.5,Lunch
+Terong Asam,39.0,1.9,2.3,2.0,Lunch
+Terong Belanda,48.0,0.3,1.5,11.3,Lunch
+Terong hintalo segar,45.0,0.8,1.9,7.5,Lunch
+Terong kukus,23.0,0.1,1.8,4.9,Lunch
+Terong segar,28.0,0.2,1.1,5.5,Lunch
+Terung belanda segar,52.0,1.1,2.1,8.6,Lunch
+Terung bengkulu segar,52.0,0.4,1.1,11.2,Lunch
+Terung panjang,25.0,0.1,2.1,5.3,Lunch
+Terung panjang kukus,23.0,0.1,1.8,4.9,Lunch
+Tespong daun,59.0,0.3,2.9,13.9,Drink
+Tim (nasi tim),120.0,0.4,2.4,26.0,Carbs
+Tinira ninahu nggaluku,33.0,1.3,1.2,4.1,Lunch
+Tinoransak masakan,516.0,49.5,17.7,0.0,Lunch
+Tipa-tipa,355.0,1.2,6.2,79.8,Lunch
+Tiwul  ,353.0,1.1,2.4,83.4,Lunch
+Tiwul Instan,395.0,8.5,3.2,76.5,Lunch
+Toge -Tahu makanan,392.0,28.5,5.4,28.4,Lunch/Dinner
+Toge Goreng ,93.6,1.8,4.4,15.1,Lunch
+Toge kacang ijo,23.0,0.2,2.9,4.1,Carbs
+Toge kacang tunggak,35.0,0.2,5.0,5.8,Carbs
+Toge kedelai,67.0,2.6,9.0,6.4,Lunch
+Toge seduh,28.0,0.8,3.0,4.0,Lunch
+Tomat air (juice) segar,20.0,0.2,1.0,3.5,Drink
+Tomat Masak,20.0,0.3,1.0,4.2,Lunch
+Tomat merah segar,24.0,0.5,1.3,4.7,Lunch
+Tomat muda segar,24.0,0.7,2.0,3.3,Lunch
+Tumis bandeng,189.0,15.7,11.3,0.6,Lunch/Dinner
+Tumis bayam bersantan,48.0,4.2,1.4,2.6,Lunch/Dinner
+Ubi Cilembu,186.0,0.2,1.9,44.3,Carbs
+Ubi Jalar Goreng ,160.0,1.3,3.7,55.3,Carbs
+Ubi jalar kuning kukus,100.0,0.3,0.7,23.8,Carbs
+Ubi jalar kuning segar,119.0,0.4,0.5,25.1,Carbs
+Ubi jalar manis segar,83.0,0.2,1.5,18.8,Carbs
+Ubi Jalar Merah,123.0,0.7,1.8,27.9,Carbs
+Ubi jalar merah segar,151.0,0.3,1.6,35.4,Carbs
+Ubi Jalar Putih,123.0,0.7,1.8,27.9,Carbs
+Ubi Jalar Rebus,114.0,9.6,1.4,25.6,Carbs
+Ubi Jalar Sayur,184.0,0.3,1.4,22.5,Carbs
+Ubi jalar tinta/ kemayung,108.0,0.4,0.5,25.6,Carbs
+Ubi jalar tinta/ kemayung kukus,165.0,0.2,0.9,39.8,Carbs
+Uceng/ bunga melinjo segar,82.0,1.3,5.8,11.7,Lunch
+Udang besar segar,56.0,0.6,11.4,1.2,Drink
+Udang galah segar,81.0,0.3,16.5,3.0,Lunch
+Udang kering,295.0,2.3,62.4,1.8,Lunch
+Udang kering mentah,278.0,4.1,62.6,2.2,Lunch
+Udang papay mentah,273.0,3.8,47.8,12.5,Lunch
+Udang segar,91.0,0.2,21.0,0.1,Lunch
+Ulat sagu panggang,380.0,30.3,11.9,14.9,Carbs
+Ulat sagu segar,241.0,21.6,5.8,5.8,Carbs
+Umbi Uwi segar,120.0,0.5,2.8,82.3,Carbs
+Umbut rotan,34.0,0.3,2.4,5.5,Lunch
+Usus Sapi,130.0,7.2,14.0,1.5,Lunch
+Uwi,101.0,0.2,2.0,19.8,Lunch
+Vermicelli,363.0,0.4,8.7,78.7,Lunch/Dinner
+Wajit camilan,303.0,2.7,6.3,63.3,Lunch/Dinner
+Waluh balamak,45.0,0.9,0.8,8.1,Lunch
+Widaran,424.0,10.7,1.3,80.7,Lunch
+Wijen,568.0,51.1,19.3,18.1,Lunch
+Wingko babat,355.0,15.1,3.2,51.4,Snack
+Woku ubi,143.0,7.8,3.1,15.0,Carbs
+Worst (sosis daging),452.0,42.3,14.5,2.3,Lunch
+Wortel Segar,42.0,0.6,1.2,9.3,Lunch
+Wortel kukus,37.0,0.6,1.0,8.3,Lunch
+Wortel rebus,28.0,0.5,0.7,6.3,Lunch
+Yangko,254.0,1.1,3.0,58.1,Lunch
+Yoghurt,52.0,2.5,3.3,4.0,Lunch
+chocolate pudding fat free,105.0,0.3,2.2,23.6,Snack
+tapioca pudding,143.0,4.3,2.1,23.9,Lunch
+tapioca pudding fat free,105.0,0.4,1.6,23.9,Lunch
+rice pudding,122.0,2.4,3.6,20.8,Carbs
+corn pudding,328.0,12.6,11.1,42.4,Carbs
+chocolate pudding,213.0,6.9,3.1,34.5,Snack
+lemon pudding,173.0,4.4,4.1,30.2,Lunch
+vanilla pudding,195.0,5.7,2.2,33.9,Lunch
+profeel proteiinirahka valio,140.0,0.4,175.0,19.3,Lunch
+cottage cheese creamed,20.0,0.9,2.2,0.7,Drink
+zaziki milfina,51.0,4.4,0.0,0.0,Lunch/Dinner
+cottage cheese low fat,163.0,2.3,28.0,6.1,Drink
+cottage cheese nonfat,104.0,0.4,15.0,9.7,Drink
+vanilla yogurt low fat,208.0,3.1,12.1,33.8,Breakfast
+classique yogurt plain 2 liberte,30.0,1.2,3.3,1.7,Breakfast
+yoplait light strawberry yogurt yoplait,79.0,0.0,0.0,0.074,Breakfast
+vanilla yogurt,145.0,2.1,8.4,23.5,Breakfast
+chocolate yogurt,168.0,0.0,5.3,35.3,Breakfast
+yogurt parfait,125.0,1.5,5.0,23.6,Breakfast
+yogurt,92.0,4.9,5.2,7.0,Breakfast
+chocolate frozen yogurt,221.0,6.3,5.2,37.6,Breakfast
+frozen yogurt,221.0,6.3,5.2,37.6,Breakfast
+yogurt low fat,154.0,3.8,12.9,17.2,Breakfast
+vanilla yoghurt oikos,120.0,1.8,0.0,0.0,Lunch
+fruit yogurt,149.0,1.7,6.0,28.0,Breakfast
+danone low fat alsafi,88.0,1.7,0.0,0.089,Lunch
+fruit n yogurt parfait mcdonalds,156.0,1.9,4.1,30.9,Breakfast
+triple zero greek yogurt dannon oikos,120.0,0.0,0.038,22.5,Breakfast
+greek yogurt,100.0,0.7,17.3,6.1,Breakfast
+chocolate rasberry protein mini proteinfx,102.0,2.9,0.0,0.0,Lunch/Dinner
+gushers fruit gushers,360.0,6.0,0.0,0.2,Lunch
+egg fried,90.0,6.8,6.3,0.4,Breakfast
+glucerna abbott,1010.0,35.6,0.0,120.9,Lunch
+sports drink,26.0,0.0,0.0,7.2,Drink
+peanut butter cookie protein syntha 6,200.0,6.0,0.0,5.0,Snack
+hanfprotein pulver rohkostqualitat veganz,107.0,3.1,0.0,14.2,Lunch
+smoothie high protein creamy chocolate slimfast,110.0,3.5,12.0,2.1,Snack
+egg large,138.0,9.3,0.0,0.0,Breakfast
+boysenberries frozen,66.0,0.3,1.5,16.1,Drink
+malt beverage,88.0,0.3,0.5,19.1,Drink
+chocolate powder for milk,88.0,0.5,1.0,19.9,Drink
+vegetable fruit juice,9.0,0.017,0.071,2.2,Drink
+cocoa powder unsweetened,12.0,0.7,1.1,3.1,Lunch
+coconut milk,35.0,3.6,0.3,0.8,Drink
+cocoa powder,28.0,0.3,0.5,5.9,Lunch
+rice drink,113.0,2.3,0.7,22.0,Drink
+coconut water,46.0,0.5,1.7,8.9,Lunch
+caramel med iced coffee dunkin donuts,268.0,9.0,0.0,0.0,Drink
+instant coffee with water decaffeinated,4.0,0.0,0.2,0.8,Drink
+instant coffee powder,353.0,0.5,12.2,75.4,Drink
+instant coffee powder decaffeinated,6.0,0.069,0.2,1.4,Drink
+instant cappuccino powder,53.0,0.7,0.4,11.2,Lunch
+coffee decaffeinated,0.0,0.0,0.2,0.0,Drink
+espresso decaffeinated,3.0,0.011,0.065,0.5,Drink
+instant coffee with water,4.0,0.0,0.2,0.6,Drink
+coffee,2.0,0.069,0.3,0.0,Drink
+espresso,3.0,0.086,0.021,0.5,Drink
+whey protein powder vanilla eas,108.0,1.7,0.0,0.0,Lunch
+energy drink sugar free red bull,13.0,0.2,0.6,1.8,Drink
+powerade coca cola,9.0,0.009,0.0,2.3,Lunch
+amp energy pepsi,110.0,0.2,0.6,29.0,Lunch
+gatorade g2 pepsi,2.0,0.052,0.069,0.6,Lunch
+amp energy sugar free pepsi,5.0,0.0,0.0,2.5,Lunch
+energy drink red bull,111.0,0.0,1.2,26.4,Drink
+powerade zero ion4 coca cola,0.0,0.0,0.0,0.0,Lunch
+full throttle coca cola,110.0,0.2,0.6,29.0,Lunch
+passion fruit juice purple,148.0,0.4,1.7,35.7,Drink
+pomegranate juice,134.0,0.7,0.4,32.7,Drink
+cranberry apricot juice,157.0,0.0,0.5,39.7,Drink
+pineapple juice,133.0,0.3,0.9,32.2,Drink
+passion fruit juice yellow,126.0,0.1,1.0,33.6,Drink
+orange apricot juice,128.0,0.3,0.8,31.8,Drink
+tangerine juice,106.0,0.5,1.2,24.9,Drink
+orange juice,90.0,0.4,1.4,20.8,Drink
+grapefruit juice,96.0,0.2,1.2,22.7,Drink
+pineapple grapefruit juice,118.0,0.3,0.5,29.0,Drink
+tamarind nectar,143.0,0.3,0.2,37.0,Lunch
+apple juice,114.0,0.3,0.2,28.0,Drink
+limeade,128.0,0.0,0.0,34.1,Lunch
+guava nectar,158.0,0.2,0.2,40.8,Lunch
+orange grapefruit juice,106.0,0.2,1.5,25.4,Drink
+orange juice sainsburys,14.0,0.088,0.0,0.0,Drink
+cranberry apple juice,154.0,0.3,0.0,38.8,Drink
+pineapple orange juice,125.0,0.0,3.3,29.5,Drink
+pear nectar,150.0,0.062,0.3,39.4,Lunch
+blackberry juice,95.0,1.5,0.8,19.5,Drink
+lemon juice,54.0,0.6,0.9,16.6,Drink
+cranberry grape juice,137.0,0.2,0.5,34.3,Drink
+citrus fruit juice,114.0,0.057,0.8,28.3,Drink
+prune juice,182.0,0.006,1.6,44.7,Drink
+guanabana nectar,148.0,0.4,0.3,37.5,Lunch
+fruit juice,108.0,0.1,0.3,26.3,Drink
+horchata,15.0,0.2,0.1,3.3,Lunch
+fruit punch,98.0,0.4,0.2,24.4,Lunch
+apricot nectar,139.0,0.2,0.9,35.7,Lunch
+orangensaft ja,86.0,0.0,0.0,1.4,Lunch
+fruchtcocktail granini,102.0,0.4,0.0,1.0,Lunch
+peach nectar,125.0,1.3,0.5,29.7,Lunch
+orange pineapple juice,15.0,0.08,0.1,3.6,Drink
+cranberry juice,92.0,0.3,0.8,24.4,Drink
+white grapefruit juice,96.0,0.2,1.2,22.7,Drink
+mango nectar,128.0,0.2,0.3,32.9,Lunch
+acerola cherry juice,56.0,0.7,1.0,11.6,Drink
+apple juice concentrate,350.0,0.8,1.1,86.5,Drink
+papaya nectar,143.0,0.4,0.4,36.3,Lunch
+apple juice martinellis,122.0,0.0,0.0,0.0,Drink
+lime juice,61.0,0.2,1.0,20.4,Drink
+grape juice,152.0,0.3,0.9,37.4,Drink
+water dannon,0.0,0.0,0.0,0.0,Lunch
+tap water,0.0,0.0,0.0,0.0,Lunch
+table water,0.0,0.0,0.0,0.0,Lunch
+fruit flavored water,52.0,0.0,0.0,13.0,Lunch
+water,0.0,0.0,0.0,0.0,Lunch
+cola light coca cola,0.0,0.0,0.0,0.0,Lunch
+lemon lime soda,151.0,0.0,0.3,38.4,Drink
+tonic water,114.0,0.0,0.0,29.6,Lunch
+lemonade low calorie,7.0,0.0,0.092,1.6,Lunch
+ginger ale,68.0,0.0,0.0,17.5,Lunch
+ice tea lemon flavor nestle,88.0,0.0,0.0,22.3,Drink
+sprite coca cola,80.0,0.063,0.1,20.3,Lunch
+cola coca cola,151.0,0.0,0.0,38.9,Lunch
+cola,74.0,0.07,0.1,19.1,Lunch
+cream soda,252.0,0.0,0.0,65.7,Drink
+club soda,0.0,0.0,0.0,0.0,Drink
+pink lemonade,86.0,0.3,0.1,21.6,Lunch
+grape soda,160.0,0.0,0.0,41.7,Drink
+cola without caffeine coca cola,151.0,0.0,0.0,38.9,Lunch
+white lemonade,80.0,0.003,0.1,20.8,Lunch
+chocolate soda,207.0,0.0,0.0,52.6,Drink
+sweet tea lipton,130.0,0.0,0.0,35.0,Drink
+hibiscus tea,74.0,1.3,0.9,14.8,Drink
+instant lemon tea,2.0,0.0,0.1,0.3,Drink
+pesca tea santal,116.0,0.0,0.0,0.0,Drink
+instant lemon tea sweetened,91.0,0.2,0.071,22.3,Drink
+tea with milk and sugar yorkshire,15.0,0.5,0.0,0.4,Drink
+tea blueberry muffin tekanne,4.0,0.2,0.0,0.4,Drink
+chamomile tea,2.0,0.0,0.0,0.4,Drink
+black tea,2.0,0.0,0.0,0.7,Drink
+herb tea,2.0,0.0,0.0,0.4,Drink
+clam tomato juice,80.0,0.3,1.0,18.2,Drink
+tomato juice,41.0,0.7,2.1,8.6,Drink
+vegetable juice,53.0,0.2,1.5,11.1,Drink
+tomato vegetable juice,53.0,0.2,1.5,11.1,Drink
+carrot juice,80.0,0.3,1.9,18.6,Drink
+acorn dried,144.0,8.9,2.3,15.2,Carbs
+fenugreek seeds,36.0,0.7,2.6,6.5,Lunch
+peanut topping mcdonalds,181.0,15.0,7.9,4.6,Lunch
+beechnuts dried,173.0,15.0,1.9,10.1,Lunch
+breadnut tree seeds raw,61.0,0.3,1.7,13.1,Carbs
+cumin seeds,8.0,0.5,0.4,0.9,Lunch/Dinner
+pili nuts dried,863.0,95.5,13.0,4.8,Lunch
+hazelnuts roasted,194.0,18.7,4.5,5.3,Lunch
+lupins cooked,193.0,4.8,25.8,15.4,Lunch
+hazelnuts blanched,178.0,17.3,3.9,4.8,Lunch
+brazilnuts dried,33.0,3.3,0.7,0.6,Lunch
+sunflower seeds dry roasted,47.0,4.0,1.5,1.9,Lunch
+ginkgo nuts canned,172.0,2.5,3.5,34.3,Lunch
+peanuts cooked,572.0,39.6,24.3,38.3,Lunch
+pumpkin squash seeds dried,721.0,63.3,39.0,13.8,Lunch
+cashew nuts raw,156.0,12.4,5.2,8.5,Lunch
+sunflower seeds dried,269.0,23.7,9.6,9.2,Lunch
+lotus seeds dried,106.0,0.6,4.9,20.6,Lunch
+butternuts dried,734.0,68.4,29.9,14.5,Lunch
+sesame seeds dried,52.0,4.5,1.6,2.1,Drink
+breadfruit seeds,57.0,1.7,2.2,8.8,Carbs
+pinyon pine nuts dried,1.0,0.073,0.083,0.01,Lunch
+pine nuts dried,909.0,92.3,18.5,17.7,Lunch
+flaxseeds,55.0,4.3,1.9,3.0,Lunch
+safflower seed kernels dried,146.0,10.9,4.6,9.7,Lunch
+pistachio nuts raw,691.0,55.8,24.9,33.8,Lunch
+peanuts raw,828.0,71.9,37.7,23.5,Lunch
+poppy seeds,46.0,3.7,1.6,2.5,Lunch
+valencia peanuts raw,832.0,69.5,36.6,30.5,Lunch
+spanish peanuts,832.0,72.4,38.2,23.1,Lunch
+dill seeds,20.0,1.0,1.1,3.6,Lunch
+caraway seeds,22.0,1.0,1.3,3.3,Lunch
+acorn raw,110.0,6.8,1.7,11.5,Carbs
+almonds roasted,182.0,16.6,6.4,5.3,Lunch
+lotus seeds raw,25.0,0.1,1.2,4.9,Lunch
+chestnuts cooked,37.0,0.4,0.6,7.9,Drink
+alfalfa seeds,1.0,0.075,0.1,0.002,Lunch
+virginia peanuts roasted,173.0,14.6,7.8,6.0,Lunch
+hazelnuts raw,471.0,45.6,11.2,12.5,Lunch
+anise seeds,7.0,0.3,0.4,1.1,Lunch
+macadamia nuts roasted,215.0,22.8,2.3,4.0,Lunch/Dinner
+studentenfutter alnatura,139.0,7.8,3.1,13.2,Lunch
+pumpkin squash seeds roasted,46.0,3.9,2.4,1.2,Lunch
+water chestnut raw,120.0,0.1,1.7,29.7,Drink
+chestnuts roasted,37.0,0.3,0.5,7.9,Drink
+ginkgo nuts raw,52.0,0.5,1.2,10.6,Lunch
+almonds raw,9.0,0.7,0.3,0.3,Lunch
+peanuts roasted,180.0,15.8,8.4,4.6,Lunch
+sunflower seeds toasted,829.0,76.1,23.1,27.6,Breakfast
+sisymbrium seeds,235.0,3.4,9.0,43.1,Lunch
+breadnut tree seeds dried,587.0,2.7,13.8,127.0,Carbs
+pecans raw,753.0,78.4,10.0,15.1,Lunch
+chia seeds dried,138.0,8.7,4.7,11.9,Lunch
+japanese chestnuts roasted,57.0,0.2,0.8,12.8,Drink
+sesame seeds toasted,45.0,3.8,1.4,2.1,Drink
+cashew nuts roasted,174.0,14.3,5.1,9.0,Lunch
+lupins raw,668.0,17.5,65.1,72.7,Lunch
+mustard seeds ground,10.0,0.7,0.5,0.6,Lunch
+mixed nuts roasted,178.0,15.4,5.2,7.6,Lunch/Dinner
+salat mix alestro,61.0,5.2,0.0,2.4,Drink
+chestnuts raw,309.0,3.3,3.5,66.0,Drink
+pistachio nuts roasted,172.0,13.7,6.3,8.5,Lunch
+walnut,33.0,3.3,0.8,0.7,Lunch
+celery seeds,25.0,1.6,1.2,2.7,Lunch
+hickorynuts dried,788.0,77.2,15.3,21.9,Lunch
+spanish peanuts roasted,851.0,72.1,41.2,25.7,Lunch
+woca seeds dried,102.0,0.3,2.2,22.6,Lunch
+pecans roasted,215.0,22.6,2.8,3.9,Lunch
+fennel seeds,7.0,0.3,0.3,1.0,Lunch
+chinese chestnuts roasted,68.0,0.3,1.3,14.8,Drink
+watermelon seed kernels dried,602.0,51.2,30.6,16.5,Lunch
+macadamia nuts raw,38.0,4.0,0.4,0.7,Lunch/Dinner
+pectin,163.0,0.2,0.2,45.2,Lunch
+black walnut dried,31.0,3.0,1.2,0.5,Lunch
+water chestnut canned,70.0,0.015,1.2,17.2,Drink
+ginkgo nuts dried,98.0,0.6,2.9,20.5,Lunch
+virginia peanuts raw,822.0,71.2,36.8,24.1,Lunch
+valencia peanuts roasted,177.0,15.4,8.1,4.9,Lunch
+nesfit diet cereal nestle,75.0,0.0,0.0,0.0,Drink
+corn grits cooked,182.0,1.2,4.4,37.9,Carbs
+amaranth flakes,134.0,2.7,5.9,27.0,Drink
+granola,293.0,14.6,8.2,32.3,Lunch
+muesli with fruit nuts,231.0,3.4,4.3,45.7,Drink
+muesli master crumble,124.0,2.4,2.4,4.5,Drink
+bran flakes,131.0,0.8,4.0,32.2,Drink
+nut cereal,245.0,5.9,4.0,46.2,Carbs
+corn flakes,108.0,0.3,1.7,24.6,Drink
+corn grits dry,36.0,0.2,0.7,7.7,Carbs
+chocolate pudding fat free,105.0,0.3,2.2,23.6,Snack
+tapioca pudding,143.0,4.3,2.1,23.9,Lunch
+tapioca pudding fat free,105.0,0.4,1.6,23.9,Lunch
+rice pudding,122.0,2.4,3.6,20.8,Carbs
+corn pudding,328.0,12.6,11.1,42.4,Carbs
+chocolate pudding,213.0,6.9,3.1,34.5,Snack
+lemon pudding,173.0,4.4,4.1,30.2,Lunch
+vanilla pudding,195.0,5.7,2.2,33.9,Lunch
+profeel proteiinirahka valio,140.0,0.4,175.0,19.3,Lunch
+cottage cheese creamed,20.0,0.9,2.2,0.7,Drink
+zaziki milfina,51.0,4.4,0.0,0.0,Lunch/Dinner
+cottage cheese low fat,163.0,2.3,28.0,6.1,Drink
+cottage cheese nonfat,104.0,0.4,15.0,9.7,Drink
+vanilla yogurt low fat,208.0,3.1,12.1,33.8,Breakfast
+classique yogurt plain 2 liberte,30.0,1.2,3.3,1.7,Breakfast
+yoplait light strawberry yogurt yoplait,79.0,0.0,0.0,0.074,Breakfast
+vanilla yogurt,145.0,2.1,8.4,23.5,Breakfast
+chocolate yogurt,168.0,0.0,5.3,35.3,Breakfast
+yogurt parfait,125.0,1.5,5.0,23.6,Breakfast
+yogurt,92.0,4.9,5.2,7.0,Breakfast
+chocolate frozen yogurt,221.0,6.3,5.2,37.6,Breakfast
+frozen yogurt,221.0,6.3,5.2,37.6,Breakfast
+yogurt low fat,154.0,3.8,12.9,17.2,Breakfast
+vanilla yoghurt oikos,120.0,1.8,0.0,0.0,Lunch
+fruit yogurt,149.0,1.7,6.0,28.0,Breakfast
+danone low fat alsafi,88.0,1.7,0.0,0.089,Lunch
+fruit n yogurt parfait mcdonalds,156.0,1.9,4.1,30.9,Breakfast
+triple zero greek yogurt dannon oikos,120.0,0.0,0.038,22.5,Breakfast
+greek yogurt,100.0,0.7,17.3,6.1,Breakfast
+chocolate rasberry protein mini proteinfx,102.0,2.9,0.0,0.0,Lunch/Dinner
+gushers fruit gushers,360.0,6.0,0.0,0.2,Lunch
+egg fried,90.0,6.8,6.3,0.4,Breakfast
+glucerna abbott,1010.0,35.6,0.0,120.9,Lunch
+sports drink,26.0,0.0,0.0,7.2,Drink
+peanut butter cookie protein syntha 6,200.0,6.0,0.0,5.0,Snack
+hanfprotein pulver rohkostqualitat veganz,107.0,3.1,0.0,14.2,Lunch
+smoothie high protein creamy chocolate slimfast,110.0,3.5,12.0,2.1,Snack
+egg large,138.0,9.3,0.0,0.0,Breakfast
+boysenberries frozen,66.0,0.3,1.5,16.1,Drink
+malt beverage,88.0,0.3,0.5,19.1,Drink
+chocolate powder for milk,88.0,0.5,1.0,19.9,Drink
+vegetable fruit juice,9.0,0.017,0.071,2.2,Drink
+cocoa powder unsweetened,12.0,0.7,1.1,3.1,Lunch
+coconut milk,35.0,3.6,0.3,0.8,Drink
+cocoa powder,28.0,0.3,0.5,5.9,Lunch
+rice drink,113.0,2.3,0.7,22.0,Drink
+coconut water,46.0,0.5,1.7,8.9,Lunch
+caramel med iced coffee dunkin donuts,268.0,9.0,0.0,0.0,Drink
+instant coffee with water decaffeinated,4.0,0.0,0.2,0.8,Drink
+instant coffee powder,353.0,0.5,12.2,75.4,Drink
+instant coffee powder decaffeinated,6.0,0.069,0.2,1.4,Drink
+instant cappuccino powder,53.0,0.7,0.4,11.2,Lunch
+coffee decaffeinated,0.0,0.0,0.2,0.0,Drink
+espresso decaffeinated,3.0,0.011,0.065,0.5,Drink
+instant coffee with water,4.0,0.0,0.2,0.6,Drink
+coffee,2.0,0.069,0.3,0.0,Drink
+espresso,3.0,0.086,0.021,0.5,Drink
+whey protein powder vanilla eas,108.0,1.7,0.0,0.0,Lunch
+energy drink sugar free red bull,13.0,0.2,0.6,1.8,Drink
+powerade coca cola,9.0,0.009,0.0,2.3,Lunch
+amp energy pepsi,110.0,0.2,0.6,29.0,Lunch
+gatorade g2 pepsi,2.0,0.052,0.069,0.6,Lunch
+amp energy sugar free pepsi,5.0,0.0,0.0,2.5,Lunch
+energy drink red bull,111.0,0.0,1.2,26.4,Drink
+powerade zero ion4 coca cola,0.0,0.0,0.0,0.0,Lunch
+full throttle coca cola,110.0,0.2,0.6,29.0,Lunch
+passion fruit juice purple,148.0,0.4,1.7,35.7,Drink
+pomegranate juice,134.0,0.7,0.4,32.7,Drink
+cranberry apricot juice,157.0,0.0,0.5,39.7,Drink
+pineapple juice,133.0,0.3,0.9,32.2,Drink
+passion fruit juice yellow,126.0,0.1,1.0,33.6,Drink
+orange apricot juice,128.0,0.3,0.8,31.8,Drink
+tangerine juice,106.0,0.5,1.2,24.9,Drink
+orange juice,90.0,0.4,1.4,20.8,Drink
+grapefruit juice,96.0,0.2,1.2,22.7,Drink
+pineapple grapefruit juice,118.0,0.3,0.5,29.0,Drink
+tamarind nectar,143.0,0.3,0.2,37.0,Lunch
+apple juice,114.0,0.3,0.2,28.0,Drink
+limeade,128.0,0.0,0.0,34.1,Lunch
+guava nectar,158.0,0.2,0.2,40.8,Lunch
+orange grapefruit juice,106.0,0.2,1.5,25.4,Drink
+orange juice sainsburys,14.0,0.088,0.0,0.0,Drink
+cranberry apple juice,154.0,0.3,0.0,38.8,Drink
+pineapple orange juice,125.0,0.0,3.3,29.5,Drink
+pear nectar,150.0,0.062,0.3,39.4,Lunch
+blackberry juice,95.0,1.5,0.8,19.5,Drink
+lemon juice,54.0,0.6,0.9,16.6,Drink
+cranberry grape juice,137.0,0.2,0.5,34.3,Drink
+citrus fruit juice,114.0,0.057,0.8,28.3,Drink
+prune juice,182.0,0.006,1.6,44.7,Drink
+guanabana nectar,148.0,0.4,0.3,37.5,Lunch
+fruit juice,108.0,0.1,0.3,26.3,Drink
+horchata,15.0,0.2,0.1,3.3,Lunch
+fruit punch,98.0,0.4,0.2,24.4,Lunch
+apricot nectar,139.0,0.2,0.9,35.7,Lunch
+orangensaft ja,86.0,0.0,0.0,1.4,Lunch
+fruchtcocktail granini,102.0,0.4,0.0,1.0,Lunch
+peach nectar,125.0,1.3,0.5,29.7,Lunch
+orange pineapple juice,15.0,0.08,0.1,3.6,Drink
+cranberry juice,92.0,0.3,0.8,24.4,Drink
+white grapefruit juice,96.0,0.2,1.2,22.7,Drink
+mango nectar,128.0,0.2,0.3,32.9,Lunch
+acerola cherry juice,56.0,0.7,1.0,11.6,Drink
+apple juice concentrate,350.0,0.8,1.1,86.5,Drink
+papaya nectar,143.0,0.4,0.4,36.3,Lunch
+apple juice martinellis,122.0,0.0,0.0,0.0,Drink
+lime juice,61.0,0.2,1.0,20.4,Drink
+grape juice,152.0,0.3,0.9,37.4,Drink
+water dannon,0.0,0.0,0.0,0.0,Lunch
+tap water,0.0,0.0,0.0,0.0,Lunch
+table water,0.0,0.0,0.0,0.0,Lunch
+fruit flavored water,52.0,0.0,0.0,13.0,Lunch
+water,0.0,0.0,0.0,0.0,Lunch
+cola light coca cola,0.0,0.0,0.0,0.0,Lunch
+lemon lime soda,151.0,0.0,0.3,38.4,Drink
+tonic water,114.0,0.0,0.0,29.6,Lunch
+lemonade low calorie,7.0,0.0,0.092,1.6,Lunch
+ginger ale,68.0,0.0,0.0,17.5,Lunch
+ice tea lemon flavor nestle,88.0,0.0,0.0,22.3,Drink
+sprite coca cola,80.0,0.063,0.1,20.3,Lunch
+cola coca cola,151.0,0.0,0.0,38.9,Lunch
+cola,74.0,0.07,0.1,19.1,Lunch
+cream soda,252.0,0.0,0.0,65.7,Drink
+club soda,0.0,0.0,0.0,0.0,Drink
+pink lemonade,86.0,0.3,0.1,21.6,Lunch
+grape soda,160.0,0.0,0.0,41.7,Drink
+cola without caffeine coca cola,151.0,0.0,0.0,38.9,Lunch
+white lemonade,80.0,0.003,0.1,20.8,Lunch
+chocolate soda,207.0,0.0,0.0,52.6,Drink
+sweet tea lipton,130.0,0.0,0.0,35.0,Drink
+hibiscus tea,74.0,1.3,0.9,14.8,Drink
+instant lemon tea,2.0,0.0,0.1,0.3,Drink
+pesca tea santal,116.0,0.0,0.0,0.0,Drink
+instant lemon tea sweetened,91.0,0.2,0.071,22.3,Drink
+tea with milk and sugar yorkshire,15.0,0.5,0.0,0.4,Drink
+tea blueberry muffin tekanne,4.0,0.2,0.0,0.4,Drink
+chamomile tea,2.0,0.0,0.0,0.4,Drink
+black tea,2.0,0.0,0.0,0.7,Drink
+herb tea,2.0,0.0,0.0,0.4,Drink
+clam tomato juice,80.0,0.3,1.0,18.2,Drink
+tomato juice,41.0,0.7,2.1,8.6,Drink
+vegetable juice,53.0,0.2,1.5,11.1,Drink
+tomato vegetable juice,53.0,0.2,1.5,11.1,Drink
+carrot juice,80.0,0.3,1.9,18.6,Drink
+acorn dried,144.0,8.9,2.3,15.2,Carbs
+fenugreek seeds,36.0,0.7,2.6,6.5,Lunch
+peanut topping mcdonalds,181.0,15.0,7.9,4.6,Lunch
+beechnuts dried,173.0,15.0,1.9,10.1,Lunch
+breadnut tree seeds raw,61.0,0.3,1.7,13.1,Carbs
+cumin seeds,8.0,0.5,0.4,0.9,Lunch/Dinner
+pili nuts dried,863.0,95.5,13.0,4.8,Lunch
+hazelnuts roasted,194.0,18.7,4.5,5.3,Lunch
+lupins cooked,193.0,4.8,25.8,15.4,Lunch
+hazelnuts blanched,178.0,17.3,3.9,4.8,Lunch
+brazilnuts dried,33.0,3.3,0.7,0.6,Lunch
+sunflower seeds dry roasted,47.0,4.0,1.5,1.9,Lunch
+ginkgo nuts canned,172.0,2.5,3.5,34.3,Lunch
+peanuts cooked,572.0,39.6,24.3,38.3,Lunch
+pumpkin squash seeds dried,721.0,63.3,39.0,13.8,Lunch
+cashew nuts raw,156.0,12.4,5.2,8.5,Lunch
+sunflower seeds dried,269.0,23.7,9.6,9.2,Lunch
+lotus seeds dried,106.0,0.6,4.9,20.6,Lunch
+butternuts dried,734.0,68.4,29.9,14.5,Lunch
+sesame seeds dried,52.0,4.5,1.6,2.1,Drink
+breadfruit seeds,57.0,1.7,2.2,8.8,Carbs
+pinyon pine nuts dried,1.0,0.073,0.083,0.01,Lunch
+pine nuts dried,909.0,92.3,18.5,17.7,Lunch
+flaxseeds,55.0,4.3,1.9,3.0,Lunch
+safflower seed kernels dried,146.0,10.9,4.6,9.7,Lunch
+pistachio nuts raw,691.0,55.8,24.9,33.8,Lunch
+peanuts raw,828.0,71.9,37.7,23.5,Lunch
+poppy seeds,46.0,3.7,1.6,2.5,Lunch
+valencia peanuts raw,832.0,69.5,36.6,30.5,Lunch
+spanish peanuts,832.0,72.4,38.2,23.1,Lunch
+dill seeds,20.0,1.0,1.1,3.6,Lunch
+caraway seeds,22.0,1.0,1.3,3.3,Lunch
+acorn raw,110.0,6.8,1.7,11.5,Carbs
+almonds roasted,182.0,16.6,6.4,5.3,Lunch
+lotus seeds raw,25.0,0.1,1.2,4.9,Lunch
+chestnuts cooked,37.0,0.4,0.6,7.9,Drink
+alfalfa seeds,1.0,0.075,0.1,0.002,Lunch
+virginia peanuts roasted,173.0,14.6,7.8,6.0,Lunch
+hazelnuts raw,471.0,45.6,11.2,12.5,Lunch
+anise seeds,7.0,0.3,0.4,1.1,Lunch
+macadamia nuts roasted,215.0,22.8,2.3,4.0,Lunch/Dinner
+studentenfutter alnatura,139.0,7.8,3.1,13.2,Lunch
+pumpkin squash seeds roasted,46.0,3.9,2.4,1.2,Lunch
+water chestnut raw,120.0,0.1,1.7,29.7,Drink
+chestnuts roasted,37.0,0.3,0.5,7.9,Drink
+ginkgo nuts raw,52.0,0.5,1.2,10.6,Lunch
+almonds raw,9.0,0.7,0.3,0.3,Lunch
+peanuts roasted,180.0,15.8,8.4,4.6,Lunch
+sunflower seeds toasted,829.0,76.1,23.1,27.6,Breakfast
+sisymbrium seeds,235.0,3.4,9.0,43.1,Lunch
+breadnut tree seeds dried,587.0,2.7,13.8,127.0,Carbs
+pecans raw,753.0,78.4,10.0,15.1,Lunch
+chia seeds dried,138.0,8.7,4.7,11.9,Lunch
+japanese chestnuts roasted,57.0,0.2,0.8,12.8,Drink
+sesame seeds toasted,45.0,3.8,1.4,2.1,Drink
+cashew nuts roasted,174.0,14.3,5.1,9.0,Lunch
+lupins raw,668.0,17.5,65.1,72.7,Lunch
+mustard seeds ground,10.0,0.7,0.5,0.6,Lunch
+mixed nuts roasted,178.0,15.4,5.2,7.6,Lunch/Dinner
+salat mix alestro,61.0,5.2,0.0,2.4,Drink
+chestnuts raw,309.0,3.3,3.5,66.0,Drink
+pistachio nuts roasted,172.0,13.7,6.3,8.5,Lunch
+walnut,33.0,3.3,0.8,0.7,Lunch
+celery seeds,25.0,1.6,1.2,2.7,Lunch
+hickorynuts dried,788.0,77.2,15.3,21.9,Lunch
+spanish peanuts roasted,851.0,72.1,41.2,25.7,Lunch
+woca seeds dried,102.0,0.3,2.2,22.6,Lunch
+pecans roasted,215.0,22.6,2.8,3.9,Lunch
+fennel seeds,7.0,0.3,0.3,1.0,Lunch
+chinese chestnuts roasted,68.0,0.3,1.3,14.8,Drink
+watermelon seed kernels dried,602.0,51.2,30.6,16.5,Lunch
+macadamia nuts raw,38.0,4.0,0.4,0.7,Lunch/Dinner
+pectin,163.0,0.2,0.2,45.2,Lunch
+black walnut dried,31.0,3.0,1.2,0.5,Lunch
+water chestnut canned,70.0,0.015,1.2,17.2,Drink
+ginkgo nuts dried,98.0,0.6,2.9,20.5,Lunch
+virginia peanuts raw,822.0,71.2,36.8,24.1,Lunch
+valencia peanuts roasted,177.0,15.4,8.1,4.9,Lunch
+nesfit diet cereal nestle,75.0,0.0,0.0,0.0,Drink
+corn grits cooked,182.0,1.2,4.4,37.9,Carbs
+amaranth flakes,134.0,2.7,5.9,27.0,Drink
+granola,293.0,14.6,8.2,32.3,Lunch
+muesli with fruit nuts,231.0,3.4,4.3,45.7,Drink
+muesli master crumble,124.0,2.4,2.4,4.5,Drink
+bran flakes,131.0,0.8,4.0,32.2,Drink
+nut cereal,245.0,5.9,4.0,46.2,Carbs
+corn flakes,108.0,0.3,1.7,24.6,Drink
+corn grits dry,36.0,0.2,0.7,7.7,Carbs
