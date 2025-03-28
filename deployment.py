@@ -12,12 +12,12 @@ class FoodRecommendationSystem:
         self.dataset = dataset
         self.scaler = MinMaxScaler()
 
-        # OneHotEncode categorical columns
+        # OneHotEncode categorical data
         self.encoder = OneHotEncoder(sparse_output=False)
         encoded_cats = self.encoder.fit_transform(dataset[['Carb_Level', 'Protein_Level', 'Diet_Category']])
         encoded_df = pd.DataFrame(encoded_cats, columns=self.encoder.get_feature_names_out())
 
-        # Normalize numerical features
+        # Normalize numerical fitur
         normalized_features = self.scaler.fit_transform(self.dataset[['calories', 'fat', 'proteins', 'carbohydrate', 'Nutrient_Density']])
         normalized_df = pd.DataFrame(normalized_features, columns=['calories', 'fat', 'proteins', 'carbohydrate', 'Nutrient_Density'])
 
@@ -27,11 +27,11 @@ class FoodRecommendationSystem:
     def get_recommendations(self, user_profile, top_n=5):
         user_profile_df = pd.DataFrame([user_profile], columns=['calories', 'fat', 'proteins', 'carbohydrate', 'Nutrient_Density', 'Carb_Level', 'Protein_Level', 'Diet_Category'])
         
-        # Convert numerical columns to float
+        # Convert numerical to float
         numerical_cols = ['calories', 'fat', 'proteins', 'carbohydrate', 'Nutrient_Density']
         user_profile_df[numerical_cols] = user_profile_df[numerical_cols].astype(float)
         
-        # Convert categorical columns to string
+        # Convert categorical to string
         categorical_cols = ['Carb_Level', 'Protein_Level', 'Diet_Category']
         user_profile_df[categorical_cols] = user_profile_df[categorical_cols].astype(str)
 
