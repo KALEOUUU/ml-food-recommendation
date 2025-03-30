@@ -1,101 +1,111 @@
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, Response
 import uuid
 import datetime
-import pickle
 import numpy as np
 import pandas as pd
-from sklearn.preprocessing import MinMaxScaler, OneHotEncoder
+from sklearn.preprocessing import MinMaxScaler
 from sklearn.metrics.pairwise import cosine_similarity
+import joblib
+from collections import OrderedDict
+import json
 
-class FoodRecommendationSystem:
-    def __init__(self, dataset):
-        self.dataset = dataset
-        self.scaler = MinMaxScaler()
+df = pd.read_csv('Dataset/processed_dataset.csv')
+scaler = joblib.load('scaler.pkl')
 
-        # OneHotEncode categorical data
-        self.encoder = OneHotEncoder(sparse_output=False)
-        encoded_cats = self.encoder.fit_transform(dataset[['Carb_Level', 'Protein_Level', 'Diet_Category']])
-        encoded_df = pd.DataFrame(encoded_cats, columns=self.encoder.get_feature_names_out())
+if not isinstance(scaler, MinMaxScaler):
+    raise ValueError("Loaded scaler is not a MinMaxScaler instance")
 
-        # Normalize numerical fitur
-        normalized_features = self.scaler.fit_transform(self.dataset[['calories', 'fat', 'proteins', 'carbohydrate', 'Nutrient_Density']])
-        normalized_df = pd.DataFrame(normalized_features, columns=['calories', 'fat', 'proteins', 'carbohydrate', 'Nutrient_Density'])
-
-        # Combine numerical and categorical data
-        self.dataset = pd.concat([normalized_df, encoded_df, self.dataset[['name', 'Meal Type']]], axis=1)
-
-    def get_recommendations(self, user_profile, top_n=5):
-        user_profile_df = pd.DataFrame([user_profile], columns=['calories', 'fat', 'proteins', 'carbohydrate', 'Nutrient_Density', 'Carb_Level', 'Protein_Level', 'Diet_Category'])
-        
-        # Convert numerical to float
-        numerical_cols = ['calories', 'fat', 'proteins', 'carbohydrate', 'Nutrient_Density']
-        user_profile_df[numerical_cols] = user_profile_df[numerical_cols].astype(float)
-        
-        # Convert categorical to string
-        categorical_cols = ['Carb_Level', 'Protein_Level', 'Diet_Category']
-        user_profile_df[categorical_cols] = user_profile_df[categorical_cols].astype(str)
-
-        user_profile_scaled = self.scaler.transform(user_profile_df[numerical_cols])
-        user_cats = self.encoder.transform(user_profile_df[categorical_cols])
-        user_profile_combined = np.concatenate((user_profile_scaled[0], user_cats[0]))
-
-        recommendations_by_category = {}
-        meal_type_names = {0: 'Breakfast', 1: 'Carbs', 2: 'Drink', 3: 'Lunch/Dinner', 4: 'Snack'}
-        features = self.dataset.columns[:-2]
-
-        for meal_type, meal_name in meal_type_names.items():
-            filtered_dataset = self.dataset[self.dataset['Meal Type'] == meal_type]
-            similarities = cosine_similarity([user_profile_combined], filtered_dataset[features])
-            similarity_scores = list(enumerate(similarities[0]))
-
-            similarity_scores = sorted(similarity_scores, key=lambda x: x[1], reverse=True)
-            top_items = similarity_scores[:top_n]
-
-            recommendations = filtered_dataset.iloc[[i[0] for i in top_items]]
-            recommendations_by_category[meal_name] = recommendations
-
-        return recommendations_by_category
-
-with open('model.pkl', 'rb') as f:
-    model = pickle.load(f)
+# normalize the dataset
+numeric_cols = ['calories', 'fat', 'proteins', 'carbohydrate', 'Nutrient_Density']
+df_scaled = pd.DataFrame(scaler.transform(df[numeric_cols]), columns=numeric_cols)
+meal_type_names = {0: 'Breakfast', 1: 'Carbs', 2: 'Drink', 3: 'Lunch/Dinner', 4: 'Snack'}
 
 app = Flask(__name__)
 
-@app.route('/api/v1/recommendations', methods=['POST'])
-def recommendations():
+# endpoint to get food recommendations
+@app.route("/api/v1/recommendations", methods=["POST"])
+def recommend():
     try:
-        user_profile = request.json
-        recommendations = model.get_recommendations(user_profile)
-        
-        result = []
-        for meal_type, df in recommendations.items():
-            for _, row in df.iterrows():
-                result.append({
-                    "type": meal_type,
+        data = request.get_json()
+        user_id = str(uuid.uuid4()) 
+        calories = data["calories"]
+        fat = data["fat"]
+        proteins = data["proteins"]
+        carbohydrate = data["carbohydrate"]
+
+        # density calculation
+        nutrient_density = (proteins + carbohydrate - fat) / (calories + 1e-6)
+        input_features = np.array([[calories, fat, proteins, carbohydrate, nutrient_density]])
+        input_scaled = scaler.transform(input_features)
+        sim_scores = cosine_similarity(input_scaled, df_scaled).flatten()
+
+        recommendations = []
+        for meal_type, meal_category in meal_type_names.items():
+            meal_indices = df[df['Meal Type'] == meal_type].index
+            meal_similarities = sorted(
+                [(idx, sim_scores[idx]) for idx in meal_indices], key=lambda x: x[1], reverse=True
+            )[:5]
+
+            for idx, _ in meal_similarities:
+                food_item = {
+                    "type": meal_category,
                     "food": {
-                        "name": row['name'],
-                        "calories": row['calories'],
-                        "fat": row['fat'],
-                        "proteins": row['proteins'],
-                        "carbohydrate": row['carbohydrate'],
-                        "Nutrient_Density": row['Nutrient_Density'],
+                        "name": df.iloc[idx]["name"],
+                        "calories": df.iloc[idx]["calories"],
+                        "fat": df.iloc[idx]["fat"],
+                        "carbo": df.iloc[idx]["carbohydrate"],
+                        "nutrient_density": df.iloc[idx]["Nutrient_Density"]
+                    }
+                }
+                recommendations.append(food_item)
+
+        response_data = OrderedDict([
+            ("success", True),
+            ("data", OrderedDict([
+                ("userID", user_id),
+                ("date", datetime.datetime.now().strftime("%d-%m-%Y")),
+                ("status", "success"),
+                ("data", recommendations)
+            ]))
+        ])
+        return Response(json.dumps(response_data, indent=4, sort_keys=False), mimetype="application/json")
+
+    except Exception as e:
+        error_response = {"success": False, "error": str(e)}
+        return Response(json.dumps(error_response, indent=4, sort_keys=False), mimetype="application/json")
+
+# endpoint to get optimal meal plan
+@app.route("/api/v1/dailyMeal", methods=["GET"])
+def optimal_meal():
+    try:
+        daily_meal_plan = []
+        for meal_type, meal_category in meal_type_names.items():
+            top_meal = df[df['Meal Type'] == meal_type].nlargest(1, 'Nutrient_Density')
+            if not top_meal.empty:
+                meal = top_meal.iloc[0]
+                daily_meal_plan.append({
+                    "type": meal_category,
+                    "food": {
+                        "name": meal["name"],
+                        "calories": meal["calories"],
+                        "fat": meal["fat"],
+                        "carbo": meal["carbohydrate"],
+                        "nutrient_density": meal["Nutrient_Density"]
                     }
                 })
-        response = {
-            "UserID": str(uuid.uuid4()),
-            "date": datetime.datetime.now().strftime("%Y-%m-%d"),
-            "status": "success",
-            "data": result
-        }
-        
-        return jsonify(response), 200
-    
+        response_data = OrderedDict([
+            ("success", True),
+            ("data", OrderedDict([
+                ("date", datetime.datetime.now().strftime("%d-%m-%Y")),
+                ("status", "success"),
+                ("data", daily_meal_plan)
+            ]))
+        ])
+        return Response(json.dumps(response_data, indent=4, sort_keys=False), mimetype="application/json")
+
     except Exception as e:
-        return jsonify({'error': str(e)}), 400
-    
+        error_response = {"success": False, "error": str(e)}
+        return Response(json.dumps(error_response, indent=4, sort_keys=False), mimetype="application/json")
+
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=4000, debug=True)
-        
-    
-    
- 
