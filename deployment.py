@@ -18,7 +18,7 @@ if not isinstance(scaler, MinMaxScaler):
 # normalize the dataset
 numeric_cols = ['calories', 'fat', 'proteins', 'carbohydrate', 'Nutrient_Density']
 df_scaled = pd.DataFrame(scaler.transform(df[numeric_cols]), columns=numeric_cols)
-meal_type_names = {0: 'Breakfast', 1: 'Carbs', 2: 'Drink', 3: 'Lunch/Dinner', 4: 'Snack'}
+meal_type_names = {0: 'Breakfast', 1: 'Carbs', 2: 'Drink', 3: 'Lunch_Dinner', 4: 'Snack'}
 
 app = Flask(__name__)
 
@@ -27,7 +27,7 @@ app = Flask(__name__)
 def recommend():
     try:
         data = request.get_json()
-        user_id = str(uuid.uuid4()) 
+        user_id = data["userid"]
         calories = data["calories"]
         fat = data["fat"]
         proteins = data["proteins"]
@@ -51,6 +51,7 @@ def recommend():
                     "type": meal_category,
                     "food": {
                         "name": df.iloc[idx]["name"],
+                        "proteins": df.iloc[idx]["proteins"],
                         "calories": df.iloc[idx]["calories"],
                         "fat": df.iloc[idx]["fat"],
                         "carbo": df.iloc[idx]["carbohydrate"],
