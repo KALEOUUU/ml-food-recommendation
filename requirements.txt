@@ -6,3 +6,4 @@ joblib
 uuid
 seaborn
 matplotlib
+plotly
